@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=58856:lm=provided:date=05_12_2024_12:58</Creator>
+        <Created>2024-11-22T17:31:49.954+01:00</Created>
+        <LastChange>2024-12-13T14:25:19.645+01:00</LastChange>
+        <TranskribusMetadata docId="5363448" pageId="84621567" pageNr="215" tsid="212274549" status="GT" userId="100969" imgUrl="https://files.transkribus.eu/Get?id=HJEQJKVHHVXEEXMXYIMIGDSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSSORNSFVXXRWOIQVOJZNMYU" imageId="69896301"/>
+    </Metadata>
+    <Page imageFilename="DTL_547662-0216.jpeg" imageWidth="2530" imageHeight="3955">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734605779225" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="468,249 1377,249 1377,3132 468,3132"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="471,331 1361,333 1361,240 1262,226 1149,255 1091,228 824,255 652,228 471,258"/>
+                <Baseline points="477,316 513,316 558,316 602,313 647,316 692,316 737,310 782,310 826,313 871,313 916,310 961,310 1005,313 1050,310 1095,310 1140,310 1185,310 1229,310 1274,310 1319,310 1364,304"/>
+                <TextEquiv>
+                    <Unicode>wil w zaloze · mezy Betanen · a Hay</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="477,394 1350,402 1350,335 1319,324 477,343"/>
+                <Baseline points="483,382 501,379 546,379 591,379 635,379 680,379 725,379 770,376 814,376 859,376 904,376 949,376 993,376 1038,376 1083,376 1128,373 1173,373 1217,373 1262,373 1307,373 1352,373"/>
+                <TextEquiv>
+                    <Unicode>s ſtrany na zapad ſluncze Mieſta Hay</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="477,450 559,475 1359,450 1359,402 1305,385 477,402"/>
+                <Baseline points="483,438 510,441 555,441 599,441 644,441 689,441 734,441 779,441 823,441 868,438 913,438 958,438 1002,438 1047,438 1092,438 1137,438 1182,435 1226,438 1271,435 1316,435 1361,432"/>
+                <TextEquiv>
+                    <Unicode>Wſſecko pak woyſko ſſikowalo ſe k ſtra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="470,524 1352,515 1352,463 1293,455 471,468"/>
+                <Baseline points="477,507 504,507 549,504 593,504 638,504 683,504 728,501 773,501 817,501 862,501 907,501 952,501 996,501 1041,498 1086,498 1131,498 1176,498 1220,498 1265,498 1310,498 1355,498"/>
+                <TextEquiv>
+                    <Unicode>nie puolnocznie · tak że poſlednie mnoz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="471,596 1342,588 1361,528 1218,504 472,523"/>
+                <Baseline points="477,570 513,567 558,567 602,567 647,564 692,564 737,564 782,564 826,564 871,564 916,561 961,561 1005,561 1050,558 1095,558 1140,558 1185,558 1229,558 1274,558 1319,558 1364,558"/>
+                <TextEquiv>
+                    <Unicode>ſtwie woyſka doſahali na zapad ſluncze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="483,654 1020,650 1087,619 1361,646 1361,587 1281,575 483,596"/>
+                <Baseline points="489,629 513,629 558,629 602,629 647,629 692,626 737,626 782,626 826,623 871,620 916,623 961,623 1005,620 1050,623 1095,620 1140,620 1185,620 1229,620 1274,620 1319,620 1364,620"/>
+                <TextEquiv>
+                    <Unicode>Mieſta Tehdy Iozue ſſel ge w tu nocz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="483,707 717,696 766,722 1181,687 1355,713 1356,647 1087,618 1019,650 483,658"/>
+                <Baseline points="489,695 507,692 552,689 596,689 641,689 686,689 731,689 776,686 820,686 865,686 910,686 955,686 999,686 1044,686 1089,686 1134,683 1179,683 1223,683 1268,683 1313,683 1358,683"/>
+                <TextEquiv>
+                    <Unicode>a ſtaal v proſtrzedku vdole To kdyż vz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="480,768 1344,768 1362,709 481,715"/>
+                <Baseline points="486,755 513,755 558,755 602,755 647,752 692,752 737,749 782,749 826,749 871,746 916,746 961,743 1005,743 1050,746 1095,743 1140,746 1185,746 1229,746 1274,746 1319,746 1364,743"/>
+                <TextEquiv>
+                    <Unicode>rzel kral Mieſta hay · poſpieſſil rano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="477,839 1289,836 1350,816 1351,778 1241,753 1154,778 478,769"/>
+                <Baseline points="483,814 501,817 546,814 591,814 635,814 680,814 725,811 770,811 814,808 859,808 904,805 949,808 993,808 1038,808 1083,808 1128,808 1173,808 1217,808 1262,805 1307,805 1352,802"/>
+                <TextEquiv>
+                    <Unicode>ſe wſſijm lidem ſwym a ſſikowal boyo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_10" custom="readingOrder {index:9;} abbrev {offset:36; length:2;expansion:tom;}">
+                <Coords points="477,890 1321,884 1354,880 1355,837 478,839"/>
+                <Baseline points="483,874 507,877 552,877 596,877 641,874 686,874 731,874 776,871 820,871 865,871 910,871 955,871 999,871 1044,868 1089,871 1134,868 1179,868 1223,868 1268,868 1313,868 1358,862"/>
+                <TextEquiv>
+                    <Unicode>wniky ſwe proti pauſſti · newieda o tō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="483,966 1328,956 1359,948 1360,884 483,892"/>
+                <Baseline points="489,943 510,940 555,937 599,937 644,937 689,937 734,934 779,934 823,934 868,931 913,931 958,934 1002,934 1047,934 1092,931 1137,931 1182,931 1226,931 1271,934 1316,931 1361,928"/>
+                <TextEquiv>
+                    <Unicode>że za Mieſtem geſt zaloha Iozue pak ſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_12" custom="readingOrder {index:11;} abbrev {offset:22; length:11;expansion:yzrahelſkeho;} textStyle {offset:32; length:1;superscript:true;}">
+                <Coords points="477,1008 1353,1010 1353,950 1284,942 477,967"/>
+                <Baseline points="483,1002 504,999 549,999 593,999 638,999 683,996 728,996 773,993 817,993 862,993 907,993 952,993 996,993 1041,993 1086,993 1131,993 1176,993 1220,993 1265,993 1310,990 1355,990"/>
+                <TextEquiv>
+                    <Unicode>wſſijm mnozſtwim lidu yzrahelſkeo po¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="486,1086 930,1058 1221,1087 1358,1066 1359,1011 487,1009"/>
+                <Baseline points="492,1062 510,1062 555,1062 599,1062 644,1062 689,1059 734,1056 779,1059 823,1056 868,1056 913,1053 958,1056 1002,1056 1047,1056 1092,1056 1137,1056 1182,1056 1226,1053 1271,1053 1316,1053 1361,1050"/>
+                <TextEquiv>
+                    <Unicode>ſtupili s Mieſta · a vtiekali po ceſtie pu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="483,1160 973,1123 1346,1141 1360,1080 484,1084"/>
+                <Baseline points="489,1128 510,1125 555,1125 599,1125 644,1125 689,1125 734,1119 779,1119 823,1119 868,1119 913,1116 958,1116 1002,1119 1047,1116 1092,1116 1137,1116 1182,1116 1226,1116 1271,1116 1316,1116 1361,1113"/>
+                <TextEquiv>
+                    <Unicode>ſſtie iakoby ſe bali: Oni pak krziczicze z</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="483,1200 1172,1208 1361,1187 1362,1142 620,1131 483,1160"/>
+                <Baseline points="489,1187 513,1187 558,1187 602,1185 647,1185 692,1182 737,1182 782,1179 826,1179 871,1182 916,1179 961,1179 1005,1179 1050,1179 1095,1179 1140,1179 1185,1176 1229,1176 1274,1176 1319,1173 1364,1173"/>
+                <TextEquiv>
+                    <Unicode>Mieſta ſpolu · a gedni druhe ponuka¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="483,1251 552,1279 801,1250 1300,1264 1368,1252 1369,1191 483,1222"/>
+                <Baseline points="489,1250 519,1247 564,1247 608,1247 653,1247 698,1247 743,1244 788,1244 832,1241 877,1244 922,1241 967,1238 1011,1241 1056,1241 1101,1241 1146,1241 1190,1238 1235,1238 1280,1238 1325,1238 1370,1235"/>
+                <TextEquiv>
+                    <Unicode>gicz honili ge · Y kdyż wyſſli z Mieſta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="477,1334 1288,1324 1354,1275 1273,1248 951,1276 878,1250 546,1280 478,1248"/>
+                <Baseline points="483,1310 504,1310 549,1310 593,1310 638,1310 683,1307 728,1307 773,1307 817,1304 862,1304 907,1304 952,1301 996,1301 1041,1301 1086,1301 1131,1301 1176,1301 1220,1301 1265,1301 1310,1301 1355,1295"/>
+                <TextEquiv>
+                    <Unicode>hay tak że ani geden nezuoſtal w Mie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="486,1392 1364,1376 1358,1305 487,1326"/>
+                <Baseline points="492,1373 516,1373 561,1373 605,1370 650,1367 695,1367 740,1367 785,1367 829,1367 874,1364 919,1364 964,1364 1008,1364 1053,1364 1098,1361 1143,1364 1187,1364 1232,1361 1277,1361 1322,1361 1367,1358"/>
+                <TextEquiv>
+                    <Unicode>ſtie hay a w betanen · kteryż by nehonil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_19" custom="readingOrder {index:18;} abbrev {offset:5; length:11;expansion:yzrahelſkeho;} textStyle {offset:15; length:1;superscript:true;}">
+                <Coords points="483,1450 1341,1449 1362,1386 483,1393"/>
+                <Baseline points="489,1435 513,1435 558,1432 602,1429 647,1429 692,1429 737,1429 782,1429 826,1426 871,1429 916,1426 961,1426 1005,1423 1050,1426 1095,1423 1140,1426 1185,1423 1229,1423 1274,1423 1319,1420 1364,1423"/>
+                <TextEquiv>
+                    <Unicode>lidu yzrahelſkeo tak iakż wybiehli necha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="492,1505 1361,1495 1361,1442 1208,1434 493,1459"/>
+                <Baseline points="498,1498 513,1495 558,1492 602,1492 647,1492 692,1492 737,1492 782,1489 826,1489 871,1489 916,1486 961,1486 1005,1486 1050,1483 1095,1486 1140,1486 1185,1486 1229,1486 1274,1486 1319,1483 1364,1483"/>
+                <TextEquiv>
+                    <Unicode>wſſe Mieſt otewrzenych · a giż byli po¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="486,1568 1362,1557 1362,1508 1290,1493 1199,1520 851,1492 665,1526 486,1510"/>
+                <Baseline points="492,1555 513,1555 558,1555 602,1555 647,1552 692,1552 737,1552 782,1552 826,1552 871,1552 916,1552 961,1549 1005,1549 1050,1549 1095,1549 1140,1549 1185,1549 1229,1549 1274,1546 1319,1546 1364,1543"/>
+                <TextEquiv>
+                    <Unicode>daal od Mieſta Tehdy ṙekl buoh k Io¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="488,1647 1349,1635 1350,1560 490,1582"/>
+                <Baseline points="495,1620 501,1620 546,1617 591,1614 635,1614 680,1611 725,1611 770,1611 814,1611 859,1614 904,1611 949,1611 993,1611 1038,1611 1083,1611 1128,1608 1173,1611 1217,1608 1262,1611 1307,1611 1352,1614"/>
+                <TextEquiv>
+                    <Unicode>zue · Pozdwihniż ſſtitu ſweho · Kteryż</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="477,1695 1359,1683 1359,1633 1268,1623 1162,1649 1101,1622 477,1646"/>
+                <Baseline points="483,1680 510,1680 555,1677 599,1677 644,1677 689,1674 734,1674 779,1674 823,1674 868,1674 913,1674 958,1674 1002,1674 1047,1674 1092,1671 1137,1671 1182,1671 1226,1671 1271,1671 1316,1671 1361,1668"/>
+                <TextEquiv>
+                    <Unicode>maſs w ruce proti Mieſtu hay · nebo to¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="483,1763 1368,1754 1369,1676 483,1697"/>
+                <Baseline points="489,1740 519,1743 564,1740 608,1737 653,1737 698,1737 743,1737 788,1734 832,1734 877,1737 922,1734 967,1731 1011,1737 1056,1734 1101,1737 1146,1737 1190,1734 1235,1734 1280,1734 1325,1731 1370,1731"/>
+                <TextEquiv>
+                    <Unicode>bieṫ ge dam · Y kdyż zdwihl ſſtit proti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="494,1832 668,1803 808,1827 1361,1810 1333,1746 495,1764"/>
+                <Baseline points="501,1805 513,1805 558,1802 602,1799 647,1799 692,1796 737,1799 782,1799 826,1796 871,1799 916,1799 961,1796 1005,1796 1050,1796 1095,1796 1140,1793 1185,1793 1229,1793 1274,1793 1319,1793 1364,1793"/>
+                <TextEquiv>
+                    <Unicode>Mieſtu · zalohy ktereż kryly ſe · yhned</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="492,1877 1368,1875 1369,1809 1231,1829 1193,1797 1140,1823 493,1832"/>
+                <Baseline points="498,1862 519,1862 564,1862 608,1862 653,1859 698,1859 743,1859 788,1859 832,1859 877,1862 922,1859 967,1859 1011,1859 1056,1859 1101,1859 1146,1859 1190,1859 1235,1859 1280,1856 1325,1853 1370,1856"/>
+                <TextEquiv>
+                    <Unicode>wyſkoczili · a wbiehſſe do Mieſta · opa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="486,1940 1320,1938 1359,1921 1360,1873 1021,1867 947,1899 869,1868 486,1877"/>
+                <Baseline points="492,1928 510,1928 555,1925 599,1922 644,1922 689,1922 734,1922 779,1919 823,1919 868,1922 913,1922 958,1922 1002,1922 1047,1922 1092,1922 1137,1919 1182,1919 1226,1916 1271,1919 1316,1916 1361,1916"/>
+                <TextEquiv>
+                    <Unicode>nowali ge a zapalili · Muzie pak z Mie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="488,2011 1364,1996 1351,1930 488,1940"/>
+                <Baseline points="495,1987 516,1987 561,1987 605,1987 650,1984 695,1984 740,1984 785,1984 829,1984 874,1981 919,1981 964,1981 1008,1981 1053,1981 1098,1981 1143,1981 1187,1981 1232,1981 1277,1981 1322,1978 1367,1978"/>
+                <TextEquiv>
+                    <Unicode>ſta kterziż honili Iozue · Wohledſſe ſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="482,2075 1368,2050 1368,2002 1302,1997 483,2012"/>
+                <Baseline points="489,2047 519,2050 564,2047 608,2047 653,2044 698,2044 743,2047 788,2044 832,2044 877,2044 922,2044 967,2044 1011,2041 1056,2041 1101,2044 1146,2041 1190,2044 1235,2041 1280,2041 1325,2041 1370,2041"/>
+                <TextEquiv>
+                    <Unicode>zaſe · a widucze daym Mieſta · an ſe zna¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="495,2139 1365,2127 1366,2051 496,2072"/>
+                <Baseline points="501,2116 516,2113 561,2113 605,2110 650,2110 695,2110 740,2107 785,2107 829,2107 874,2107 919,2107 964,2107 1008,2107 1053,2107 1098,2104 1143,2104 1187,2104 1232,2104 1277,2104 1322,2104 1367,2101"/>
+                <TextEquiv>
+                    <Unicode>ſſie aż k nebi nemohli wiecz ani ſem ani</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="486,2194 1356,2173 1356,2129 1283,2109 1217,2137 814,2119 486,2145"/>
+                <Baseline points="492,2173 507,2173 552,2173 596,2170 641,2170 686,2167 731,2167 776,2170 820,2167 865,2167 910,2170 955,2167 999,2167 1044,2167 1089,2167 1134,2167 1179,2167 1223,2167 1268,2167 1313,2167 1358,2164"/>
+                <TextEquiv>
+                    <Unicode>tam vteczy zwlaſſtie poniewadż ti kte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="492,2268 753,2239 963,2259 998,2233 1368,2250 1356,2174 492,2192"/>
+                <Baseline points="498,2238 519,2235 564,2235 608,2232 653,2229 698,2229 743,2229 788,2229 832,2229 877,2232 922,2229 967,2229 1011,2229 1056,2229 1101,2229 1146,2229 1190,2229 1235,2229 1280,2229 1325,2229 1370,2229"/>
+                <TextEquiv>
+                    <Unicode>rziż vcżinili ſe yako by vtiekali na puſſṫ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="488,2305 1254,2311 1355,2292 1356,2256 999,2233 960,2259 699,2241 488,2271"/>
+                <Baseline points="495,2295 507,2295 552,2295 596,2295 641,2292 686,2292 731,2292 776,2292 820,2292 865,2292 910,2292 955,2292 999,2292 1044,2292 1089,2292 1134,2292 1179,2292 1223,2292 1268,2289 1313,2289 1358,2283"/>
+                <TextEquiv>
+                    <Unicode>obratiwſſe ſe zaſe · ſylnie proti nim bo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="494,2385 1365,2365 1343,2293 495,2318"/>
+                <Baseline points="501,2358 516,2358 561,2355 605,2355 650,2355 695,2355 740,2352 785,2355 829,2355 874,2355 919,2355 964,2355 1008,2352 1053,2352 1098,2352 1143,2352 1187,2352 1232,2355 1277,2352 1322,2352 1367,2349"/>
+                <TextEquiv>
+                    <Unicode>yowali. Tehdy wida Iozue · y weſſke¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="488,2433 1361,2445 1343,2361 488,2386"/>
+                <Baseline points="495,2417 540,2417 585,2414 629,2417 674,2414 719,2417 764,2414 808,2417 853,2417 898,2417 943,2420 988,2420 1032,2417 1077,2417 1122,2417 1167,2417 1211,2414 1256,2414 1301,2414 1346,2414 1364,2417"/>
+                <TextEquiv>
+                    <Unicode>ren lid Izrahelſky żeby giż byli gich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="483,2503 1183,2486 1282,2512 1355,2482 1340,2444 1230,2425 483,2445"/>
+                <Baseline points="489,2480 507,2480 552,2477 596,2477 641,2477 686,2477 731,2477 776,2477 820,2477 865,2477 910,2477 955,2477 999,2477 1044,2480 1089,2480 1134,2477 1179,2477 1223,2474 1268,2474 1313,2474 1358,2471"/>
+                <TextEquiv>
+                    <Unicode>na Mieſtie · a że daym z nieho wſtupu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="492,2569 1364,2553 1364,2476 1282,2512 492,2500"/>
+                <Baseline points="498,2537 516,2540 561,2537 605,2540 650,2540 695,2540 740,2537 785,2540 829,2540 874,2540 919,2540 964,2540 1008,2540 1053,2540 1098,2540 1143,2540 1187,2540 1232,2540 1277,2537 1322,2537 1367,2534"/>
+                <TextEquiv>
+                    <Unicode>ge obratiw ſe zaſe · mordowal muże</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="488,2617 1368,2622 1352,2551 667,2575 578,2545 488,2576"/>
+                <Baseline points="495,2599 519,2605 564,2602 608,2602 653,2602 698,2602 743,2602 788,2602 832,2602 877,2602 922,2602 967,2605 1011,2605 1056,2602 1101,2602 1146,2602 1190,2599 1235,2599 1280,2599 1325,2599 1370,2596"/>
+                <TextEquiv>
+                    <Unicode>Mieſta hay y ti take kterziż byli Mieſto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="488,2674 1364,2677 1338,2616 488,2630"/>
+                <Baseline points="495,2665 516,2665 561,2662 605,2662 650,2662 695,2662 740,2662 785,2662 829,2665 874,2662 919,2662 964,2665 1008,2665 1053,2662 1098,2662 1143,2662 1187,2665 1232,2662 1277,2662 1322,2662 1367,2659"/>
+                <TextEquiv>
+                    <Unicode>zapalili · wyſſedſſe mordowali neprzate¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="492,2751 1364,2744 1344,2674 1237,2702 1172,2674 492,2678"/>
+                <Baseline points="498,2728 543,2725 588,2728 632,2728 677,2728 722,2725 767,2728 811,2725 856,2725 901,2728 946,2728 990,2728 1035,2728 1080,2725 1125,2728 1170,2728 1214,2725 1259,2728 1304,2728 1349,2728 1367,2731"/>
+                <TextEquiv>
+                    <Unicode>ly kterziż byli vproſtṙedku · zaſkocziwſſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="498,2816 1355,2802 1355,2748 1274,2738 498,2753"/>
+                <Baseline points="504,2790 507,2787 552,2790 596,2787 641,2787 686,2787 731,2787 776,2787 820,2787 865,2787 910,2787 955,2787 999,2787 1044,2787 1089,2787 1134,2787 1179,2787 1223,2787 1268,2787 1313,2784 1358,2784"/>
+                <TextEquiv>
+                    <Unicode>ge od Mieſta · y kdy s obu ſtranu ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="491,2877 1358,2874 1349,2801 492,2819"/>
+                <Baseline points="498,2856 510,2856 555,2850 599,2850 644,2850 689,2850 734,2847 779,2847 823,2847 868,2847 913,2850 958,2847 1002,2850 1047,2850 1092,2850 1137,2853 1182,2847 1226,2847 1271,2850 1316,2850 1361,2844"/>
+                <TextEquiv>
+                    <Unicode>przatele mordowani byli · tak że żadny</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="488,2933 1355,2932 1355,2878 1292,2860 1001,2884 952,2855 918,2880 589,2858 488,2885"/>
+                <Baseline points="495,2913 507,2913 552,2913 596,2910 641,2910 686,2910 731,2910 776,2910 820,2910 865,2910 910,2910 955,2910 999,2913 1044,2913 1089,2913 1134,2913 1179,2913 1223,2910 1268,2913 1313,2910 1358,2907"/>
+                <TextEquiv>
+                    <Unicode>z tak welikeho mnozſtwie nezuoſtal żiw</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="493,2990 1340,3006 1369,2999 1368,2939 492,2935"/>
+                <Baseline points="498,2978 519,2975 564,2972 608,2972 653,2972 698,2972 743,2972 788,2972 832,2969 877,2972 922,2972 967,2969 1011,2972 1056,2975 1101,2975 1146,2972 1190,2975 1235,2975 1280,2972 1325,2972 1370,2972"/>
+                <TextEquiv>
+                    <Unicode>krale take Mieſta hay yali ſu żiweho · a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="498,3046 1129,3070 1353,3046 1352,3004 1303,2993 497,2997"/>
+                <Baseline points="504,3032 549,3035 593,3035 638,3032 683,3032 728,3032 773,3032 817,3035 862,3035 907,3035 952,3035 996,3038 1041,3038 1086,3038 1131,3035 1176,3035 1220,3038 1265,3035 1310,3035 1355,3026"/>
+                <TextEquiv>
+                    <Unicode>dali gſu Iozue · Tehdy kdyż zmordo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="501,3118 557,3144 607,3117 1063,3147 1361,3120 1361,3040 1130,3072 1091,3046 821,3067 759,3040 501,3066"/>
+                <Baseline points="507,3098 552,3098 596,3098 641,3098 686,3098 731,3098 776,3098 820,3098 865,3101 910,3101 955,3101 999,3101 1044,3101 1089,3101 1134,3101 1179,3101 1223,3098 1268,3098 1313,3101 1358,3101 1364,3101"/>
+                <TextEquiv>
+                    <Unicode>wali wſſeczkny ty kterziż henili ge na</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wil w zaloze mezy Setnen a ay
+a ſtrany na zapad ſluncze Mieſta nay¬
+Wſſecko pak wdyſko ſſikowalo ſe ra¬
+nie puoliecznie tak ze poſlednie mnoz¬
+ſtwie wdyſka doſahali na zapad ſluncze
+Mieſta Tehdy Iozie ſſel ge w tu nocz
+a ſtaal y proſtrzedku y doſe To kdyż vz¬
+rzel kral Mieſta hap kapitola poſpieſſil rano¬ 
+ſe wſſim lidem ſwym a ſſikowal boyo¬
+w niky ſwe proti pauſſti newieda ot o¬
+że za Mieſtem geſt zaloha Iozie pak ſe
+wſſim mnozſtwim lidu y zrahelſke po¬
+ſtupili s Mieſta a vtekli po ċeſl ſe pu¬
+ſſtie iakob y ſe bali Oni pak krziczicze z¬
+Mieſta ſpolu a gedni druhe ponuka¬
+czicz honili cze y kdyz wyſſli z mieſta
+hay tak że ani geden nezuoſtal w Mie¬
+ſie hy a w betanen.kteryż by nehonil
+lidu y zrahelſkeetas yakz wybiehli necha¬
+wſſe Mieſt otewrzenych a giz byli po¬
+daal od Mieſta Tehdy ṙekl buoh s Io¬
+zue. Pozdwihniz ſſtitu ſweho.Kteryż
+maſs w ruce proti mieſtu ha kapitola nebo to 
+etcze daſi Y když zdwihl Nit proti
+Mieſtu za ſoh y kterez kryly ſe yhned
+wyſroczili a w biehſſe do Mieſta. opa¬
+nowali ge a zapalili.Muze pak z Mie¬
+ſta kterziz honili Iozue.Pohledſſe ſe¬
+zaſe.a widucze daym.Mieſta.an ẛe zna¬
+ſſie az k nebi nemohli wieczani ſem ani
+tam vteczy zwlaſſtie poniewadż ti kte¬
+rziz vczinili ſe yakoby vtekl ſi na puſſt
+obratiwſſe ſe zaſe.ſylnie pṙeti nim bo¬
+powaſi. Tehdy wida Iozie y prſſke
+ren lid Izrahelſky zeby giz byli gich
+na Mieſtie.a ze daym z nieho wſtupu¬
+ge obratiw ſe zaſe.mordowal muże
+Mieſta hay y ti take kterziz byli Mieſto¬
+zapalili wyſſedſſe mordowali neprzate¬
+ſy kterziz byſly proſtṙedka zaſkocziwſſe
+ge od Mieſta y kdy s obu ſtranu ne¬
+przatele mordowani byli tak ze zadny
+z tak nelikeho mnozſtwie nezuoſtal żiw¬
+kraſe take zmieſta hay pali ſu ziweho a
+dali gſu Iozie. Tehdy kdyż zpordo¬
+wali wſſeczkny ty kterziz henili cze na¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;}">
+            <Coords points="1451,253 2323,253 2323,3124 1451,3124"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1456,340 1899,309 2317,333 2317,236 2150,263 1991,220 1456,241"/>
+                <Baseline points="1462,307 1507,307 1552,307 1596,304 1641,304 1686,304 1731,304 1776,304 1820,301 1865,304 1910,304 1955,301 1999,304 2044,301 2089,304 2134,307 2178,307 2223,307 2268,310 2313,313 2319,313"/>
+                <TextEquiv>
+                    <Unicode>puſſṫ nawratili ſu ſe zaſe ſynowe Izra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1462,395 2304,380 2280,320 1566,315 1462,340"/>
+                <Baseline points="1468,370 1513,370 1558,370 1602,370 1647,370 1692,370 1737,367 1781,367 1826,367 1871,367 1916,367 1961,364 2005,367 2050,364 2095,367 2140,367 2184,367 2229,370 2274,373 2307,370"/>
+                <TextEquiv>
+                    <Unicode>helſſtiz k Mieſtu Hay a zmordowali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1456,452 2308,448 2308,391 2188,374 1456,396"/>
+                <Baseline points="1462,432 1507,432 1552,432 1596,432 1641,432 1686,432 1731,432 1776,429 1820,429 1865,429 1910,429 1955,429 1999,426 2044,426 2089,429 2134,429 2178,429 2223,432 2268,435 2310,435"/>
+                <TextEquiv>
+                    <Unicode>wſſeczky kterziż byli w Mieſtie Bieſſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1459,518 2304,516 2304,467 2209,444 1459,456"/>
+                <Baseline points="1465,498 1501,495 1546,495 1590,495 1635,495 1680,495 1725,495 1770,489 1814,492 1859,492 1904,492 1949,489 1993,489 2038,489 2083,489 2128,489 2173,489 2217,492 2262,495 2307,495"/>
+                <TextEquiv>
+                    <Unicode>pak tiech kterziż na tom mieſtie zmordo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1455,571 2288,578 2301,524 2011,497 1456,518"/>
+                <Baseline points="1462,555 1507,555 1552,555 1596,555 1641,555 1686,552 1731,552 1776,555 1820,552 1865,552 1910,552 1955,552 1999,549 2044,552 2089,549 2134,552 2178,552 2223,555 2268,555 2304,555"/>
+                <TextEquiv>
+                    <Unicode>wani ſu · od muże aż do żeny · dwanat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1450,630 2304,648 2304,582 2180,561 1450,583"/>
+                <Baseline points="1456,614 1501,617 1546,620 1590,617 1635,617 1680,614 1725,614 1770,614 1814,611 1859,614 1904,614 1949,614 1993,614 2038,611 2083,614 2128,614 2173,614 2217,617 2262,617 2307,620 2310,617"/>
+                <TextEquiv>
+                    <Unicode>czte tiſycow wſſiczkni obywatelee Mie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1450,702 2310,690 2310,650 2241,630 1450,635"/>
+                <Baseline points="1456,680 1501,680 1546,680 1590,677 1635,674 1680,677 1725,677 1770,677 1814,677 1859,677 1904,677 1949,677 1993,677 2038,674 2083,677 2128,677 2173,680 2217,680 2262,680 2307,683 2313,683"/>
+                <TextEquiv>
+                    <Unicode>ſta hay · Ale Iozue neſpuſtil ruky ſwe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1450,750 2304,759 2304,694 1450,702"/>
+                <Baseline points="1456,740 1501,743 1546,743 1590,743 1635,743 1680,740 1725,740 1770,740 1814,740 1859,737 1904,740 1949,740 1993,740 2038,740 2083,737 2128,740 2173,740 2217,743 2262,743 2307,743 2310,740"/>
+                <TextEquiv>
+                    <Unicode>kteruż byl zdwihl z huoru drże ſſtit · do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1450,819 2158,830 2301,818 2302,768 1451,764"/>
+                <Baseline points="1456,805 1498,805 1543,802 1587,802 1632,802 1677,802 1722,802 1767,802 1811,799 1856,799 1901,799 1946,799 1990,799 2035,799 2080,799 2125,799 2170,802 2214,802 2259,802 2304,793"/>
+                <TextEquiv>
+                    <Unicode>kawadż negſu zmordowani wſſickni o¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1453,879 2308,886 2308,816 1453,820"/>
+                <Baseline points="1459,865 1504,865 1549,865 1593,865 1638,865 1683,865 1728,862 1773,862 1817,862 1862,862 1907,859 1952,859 1996,862 2041,862 2086,862 2131,865 2175,862 2220,865 2265,865 2310,862"/>
+                <TextEquiv>
+                    <Unicode>bywatele Mieſta hay · dobytek pak a lu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1456,960 2304,946 2304,892 2232,876 1457,881"/>
+                <Baseline points="1462,931 1501,928 1546,931 1590,928 1635,928 1680,928 1725,928 1770,925 1814,928 1859,925 1904,925 1949,925 1993,925 2038,925 2083,925 2128,925 2173,925 2217,925 2262,928 2307,922"/>
+                <TextEquiv>
+                    <Unicode>peż Mieſta rozbitowali ſu mezy ſebu ſy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1445,1015 2308,1001 2308,956 2207,939 1445,963"/>
+                <Baseline points="1451,990 1495,988 1540,988 1584,988 1629,988 1674,990 1719,988 1764,988 1808,988 1853,988 1898,988 1943,988 1987,988 2032,988 2077,985 2122,988 2167,988 2211,990 2256,990 2301,990 2310,990"/>
+                <TextEquiv>
+                    <Unicode>nowe Izrahelſſti iakoż przykazal pan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1453,1062 2308,1063 2308,1001 2197,1025 2113,997 1453,1008"/>
+                <Baseline points="1459,1041 1504,1050 1549,1050 1593,1050 1638,1053 1683,1053 1728,1050 1773,1050 1817,1053 1862,1050 1907,1050 1952,1050 1996,1050 2041,1047 2086,1050 2131,1050 2175,1047 2220,1047 2265,1050 2310,1047"/>
+                <TextEquiv>
+                    <Unicode>Iozue · kteryżto wypalil Mieſto · a vcżi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1450,1132 2309,1138 2309,1063 1450,1077"/>
+                <Baseline points="1456,1116 1459,1116 1504,1116 1549,1113 1593,1113 1638,1113 1683,1113 1728,1113 1773,1113 1817,1110 1862,1110 1907,1110 1952,1110 1996,1113 2041,1110 2086,1110 2131,1110 2175,1113 2220,1110 2265,1113 2310,1113"/>
+                <TextEquiv>
+                    <Unicode>nil ge w hromadu wieċnu · a krale gich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1449,1202 2226,1200 2308,1190 2309,1138 1450,1140"/>
+                <Baseline points="1456,1176 1459,1176 1504,1176 1549,1176 1593,1176 1638,1176 1683,1176 1728,1173 1773,1173 1817,1173 1862,1173 1907,1170 1952,1173 1996,1173 2041,1170 2086,1170 2131,1173 2175,1173 2220,1173 2265,1173 2310,1170"/>
+                <TextEquiv>
+                    <Unicode>obieſyl na ſſibeniczy · aż do zapadu ſlun¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1456,1257 2310,1253 2288,1183 1456,1205"/>
+                <Baseline points="1462,1238 1507,1238 1552,1238 1596,1238 1641,1238 1686,1238 1731,1238 1776,1235 1820,1235 1865,1235 1910,1235 1955,1235 1999,1232 2044,1232 2089,1235 2134,1235 2178,1235 2223,1235 2268,1235 2313,1235"/>
+                <TextEquiv>
+                    <Unicode>cze a wecżer przykazal Iozue · a ſlożili</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1450,1332 2309,1313 2309,1260 2137,1239 2051,1267 1450,1261"/>
+                <Baseline points="1456,1301 1459,1301 1504,1301 1549,1301 1593,1298 1638,1298 1683,1298 1728,1298 1773,1298 1817,1298 1862,1298 1907,1295 1952,1298 1996,1295 2041,1295 2086,1295 2131,1295 2175,1295 2220,1298 2265,1298 2310,1298"/>
+                <TextEquiv>
+                    <Unicode>ſu s ſſibenicze tielo geho · a wrhli ſu ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1453,1374 2304,1374 2304,1318 2234,1309 1453,1330"/>
+                <Baseline points="1459,1358 1504,1364 1549,1361 1593,1361 1638,1361 1683,1361 1728,1361 1773,1361 1817,1361 1862,1358 1907,1358 1952,1358 1996,1358 2041,1358 2086,1358 2131,1358 2175,1358 2220,1361 2265,1361 2307,1361"/>
+                <TextEquiv>
+                    <Unicode>do brany Mieſta · nametawſſe naṅ we¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1450,1434 2309,1445 2309,1374 1450,1376"/>
+                <Baseline points="1456,1426 1459,1426 1504,1426 1549,1423 1593,1423 1638,1423 1683,1423 1728,1420 1773,1420 1817,1420 1862,1420 1907,1420 1952,1420 1996,1420 2041,1420 2086,1417 2131,1417 2175,1420 2220,1423 2265,1423 2310,1420"/>
+                <TextEquiv>
+                    <Unicode>liku hromadu kamenie · kteraż trwa aż</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1456,1503 2317,1506 2317,1446 2219,1427 1621,1432 1581,1459 1456,1437"/>
+                <Baseline points="1462,1483 1507,1486 1552,1486 1596,1486 1641,1486 1686,1486 1731,1483 1776,1483 1820,1483 1865,1483 1910,1480 1955,1483 1999,1483 2044,1480 2089,1480 2134,1483 2178,1480 2223,1486 2268,1483 2313,1483 2319,1486"/>
+                <TextEquiv>
+                    <Unicode>do dneſſka · Tehdy vdielal geſt Iozue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1450,1561 2304,1552 2280,1503 2125,1491 1450,1510"/>
+                <Baseline points="1456,1543 1501,1549 1546,1549 1590,1546 1635,1546 1680,1546 1725,1546 1770,1546 1814,1546 1859,1543 1904,1546 1949,1543 1993,1546 2038,1546 2083,1546 2128,1546 2173,1546 2217,1543 2262,1543 2307,1540"/>
+                <TextEquiv>
+                    <Unicode>oltarz panu bohu na huorze Ebal · ia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1456,1628 2308,1617 2301,1550 1457,1563"/>
+                <Baseline points="1462,1611 1504,1611 1549,1611 1593,1611 1638,1611 1683,1611 1728,1608 1773,1608 1817,1608 1862,1608 1907,1605 1952,1605 1996,1605 2041,1605 2086,1608 2131,1608 2175,1608 2220,1608 2265,1608 2310,1608"/>
+                <TextEquiv>
+                    <Unicode>koż byl przykazal Moyżieſs ſluha bożi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_23" custom="readingOrder {index:22;} abbrev {offset:34; length:2;expansion:geſt;}">
+                <Coords points="1456,1695 2304,1686 2303,1618 1457,1628"/>
+                <Baseline points="1462,1677 1501,1674 1546,1674 1590,1674 1635,1671 1680,1671 1725,1671 1770,1671 1814,1671 1859,1668 1904,1668 1949,1668 1993,1668 2038,1671 2083,1668 2128,1668 2173,1668 2217,1671 2262,1668 2307,1665"/>
+                <TextEquiv>
+                    <Unicode>ſynom Izrahelſkym · a iakoż pſano ḡt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1456,1744 2254,1754 2304,1737 2305,1685 1456,1696"/>
+                <Baseline points="1462,1731 1501,1731 1546,1734 1590,1734 1635,1734 1680,1734 1725,1734 1770,1731 1814,1731 1859,1731 1904,1731 1949,1731 1993,1731 2038,1731 2083,1731 2128,1731 2173,1731 2217,1731 2262,1731 2307,1722"/>
+                <TextEquiv>
+                    <Unicode>w zakonie Moyżieſſowie · oltarz z kame¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1450,1807 2309,1809 2309,1745 1450,1745"/>
+                <Baseline points="1456,1796 1459,1796 1504,1793 1549,1793 1593,1793 1638,1796 1683,1793 1728,1793 1773,1796 1817,1793 1862,1793 1907,1793 1952,1793 1996,1793 2041,1790 2086,1793 2131,1793 2175,1793 2220,1796 2265,1793 2310,1790"/>
+                <TextEquiv>
+                    <Unicode>nie ne vhlazeneho kterehoż nedoteklo ſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1459,1883 2318,1875 2318,1823 2227,1803 1459,1810"/>
+                <Baseline points="1465,1856 1510,1859 1555,1856 1599,1856 1644,1853 1689,1856 1734,1856 1779,1859 1823,1856 1868,1856 1913,1853 1958,1853 2002,1853 2047,1853 2092,1853 2137,1856 2181,1853 2226,1856 2271,1856 2316,1856 2319,1856"/>
+                <TextEquiv>
+                    <Unicode>żelezo · Y obietowal geſt na niem obieti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1456,1935 2308,1935 2308,1881 2208,1868 1456,1883"/>
+                <Baseline points="1462,1913 1504,1919 1549,1919 1593,1919 1638,1919 1683,1919 1728,1919 1773,1919 1817,1916 1862,1916 1907,1916 1952,1916 1996,1916 2041,1916 2086,1913 2131,1916 2175,1916 2220,1916 2265,1916 2310,1913"/>
+                <TextEquiv>
+                    <Unicode>witiezne · a pokoyne · a napſal na kame¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1450,1990 1584,2018 1685,1988 2187,2004 2317,1988 2318,1943 1451,1936"/>
+                <Baseline points="1456,1981 1468,1981 1513,1976 1558,1978 1602,1981 1647,1981 1692,1981 1737,1978 1781,1978 1826,1978 1871,1978 1916,1978 1961,1978 2005,1978 2050,1978 2095,1976 2140,1981 2184,1978 2229,1976 2274,1973 2319,1973"/>
+                <TextEquiv>
+                    <Unicode>ni · przykazanie zakona Moyżieſſowa ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1450,2050 2301,2056 2302,1984 1686,1989 1628,2018 1451,1990"/>
+                <Baseline points="1456,2044 1498,2044 1543,2044 1587,2041 1632,2044 1677,2044 1722,2044 1767,2041 1811,2041 1856,2041 1901,2038 1946,2038 1990,2041 2035,2041 2080,2038 2125,2038 2170,2038 2214,2038 2259,2038 2304,2032"/>
+                <TextEquiv>
+                    <Unicode>ktereż on byl rozkazal ſynom Izrahel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1459,2132 2254,2130 2301,2112 2302,2055 1900,2073 1665,2047 1586,2078 1460,2054"/>
+                <Baseline points="1465,2110 1498,2107 1543,2104 1587,2104 1632,2104 1677,2104 1722,2104 1767,2104 1811,2104 1856,2104 1901,2104 1946,2104 1990,2101 2035,2104 2080,2101 2125,2101 2170,2101 2214,2101 2259,2098 2304,2095"/>
+                <TextEquiv>
+                    <Unicode>ſkym · Wſſickni pak ſtraſſie lidu a ſu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1456,2182 2304,2173 2304,2125 2197,2111 1456,2126"/>
+                <Baseline points="1462,2167 1501,2167 1546,2167 1590,2167 1635,2167 1680,2167 1725,2167 1770,2167 1814,2167 1859,2167 1904,2164 1949,2164 1993,2164 2038,2167 2083,2164 2128,2164 2173,2164 2217,2164 2262,2164 2307,2161"/>
+                <TextEquiv>
+                    <Unicode>dcze y wuodcze ſtali gſu s obu ſtranu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1453,2249 2308,2244 2294,2172 1636,2179 1607,2203 1453,2182"/>
+                <Baseline points="1459,2229 1504,2229 1549,2232 1593,2226 1638,2229 1683,2229 1728,2229 1773,2229 1817,2229 1862,2229 1907,2226 1952,2226 1996,2226 2041,2226 2086,2226 2131,2226 2175,2226 2220,2229 2265,2229 2310,2226"/>
+                <TextEquiv>
+                    <Unicode>archy · przed oblicże gem knieżij · kterziż</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1449,2312 2282,2313 2304,2251 1450,2254"/>
+                <Baseline points="1456,2292 1501,2292 1546,2292 1590,2292 1635,2292 1680,2292 1725,2292 1770,2289 1814,2289 1859,2292 1904,2289 1949,2289 1993,2289 2038,2289 2083,2289 2128,2289 2173,2289 2217,2286 2262,2286 2307,2283"/>
+                <TextEquiv>
+                    <Unicode>neſli archu bożi · tak przichoze iako y do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="1453,2378 1995,2380 2082,2354 2301,2381 2301,2308 2269,2305 1453,2312"/>
+                <Baseline points="1459,2355 1498,2352 1543,2352 1587,2349 1632,2355 1677,2355 1722,2352 1767,2352 1811,2352 1856,2352 1901,2352 1946,2352 1990,2352 2035,2349 2080,2349 2125,2352 2170,2349 2214,2346 2259,2349 2304,2346"/>
+                <TextEquiv>
+                    <Unicode>macy · polowice lidu ſtalo v hory gary¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="1456,2433 2310,2440 2310,2381 2263,2358 1456,2375"/>
+                <Baseline points="1462,2414 1507,2414 1552,2414 1596,2414 1641,2414 1686,2414 1731,2414 1776,2414 1820,2414 1865,2414 1910,2414 1955,2414 1999,2414 2044,2411 2089,2411 2134,2411 2178,2411 2223,2411 2268,2411 2313,2408"/>
+                <TextEquiv>
+                    <Unicode>zym · a polowicze v huory Ebal · iakoż</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="1462,2488 2310,2479 2310,2439 2251,2420 1462,2439"/>
+                <Baseline points="1468,2477 1507,2477 1552,2477 1596,2477 1641,2480 1686,2477 1731,2477 1776,2477 1820,2477 1865,2477 1910,2477 1955,2477 1999,2477 2044,2474 2089,2477 2134,2474 2178,2474 2223,2474 2268,2468 2313,2465"/>
+                <TextEquiv>
+                    <Unicode>byl rozkazal Moyżieſs ſlużebnik boži ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="1471,2552 1857,2571 2302,2544 2279,2481 1977,2507 1471,2492"/>
+                <Baseline points="1477,2540 1498,2540 1543,2540 1587,2540 1632,2540 1677,2537 1722,2540 1767,2537 1811,2537 1856,2540 1901,2540 1946,2540 1990,2537 2035,2537 2080,2537 2125,2537 2170,2534 2214,2534 2259,2531 2304,2528"/>
+                <TextEquiv>
+                    <Unicode>A nayprwe zagiſte dal pożehnanie li¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_38" custom="readingOrder {index:37;} abbrev {offset:18; length:4;expansion:potom;}">
+                <Coords points="1456,2617 2317,2613 2317,2555 2279,2545 1864,2575 1456,2551"/>
+                <Baseline points="1462,2596 1507,2599 1552,2599 1596,2599 1641,2599 1686,2602 1731,2602 1776,2602 1820,2602 1865,2599 1910,2599 1955,2602 1999,2599 2044,2599 2089,2599 2134,2599 2178,2599 2223,2596 2268,2596 2313,2599 2319,2599"/>
+                <TextEquiv>
+                    <Unicode>du Izrahelſkemu · potō pak cżetl wſſecz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="1452,2678 2310,2675 2310,2627 2268,2614 1453,2617"/>
+                <Baseline points="1459,2665 1462,2662 1507,2662 1552,2662 1596,2662 1641,2662 1686,2662 1731,2662 1776,2662 1820,2665 1865,2662 1910,2662 1955,2662 1999,2662 2044,2662 2089,2662 2134,2659 2178,2659 2223,2659 2268,2653 2313,2647"/>
+                <TextEquiv>
+                    <Unicode>kna ſlowa pożehnanie a zlorzeczenie · y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="1457,2741 2107,2756 2313,2731 2313,2673 2260,2667 2157,2692 1459,2683"/>
+                <Baseline points="1465,2725 1510,2722 1555,2725 1599,2725 1644,2725 1689,2725 1734,2725 1779,2725 1823,2728 1868,2728 1913,2725 1958,2725 2002,2728 2047,2725 2092,2722 2137,2722 2181,2719 2226,2719 2271,2719 2316,2716"/>
+                <TextEquiv>
+                    <Unicode>wſſeckny rzecżi ktereż byly pſany w kni¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="1453,2801 2304,2805 2304,2735 2272,2732 2107,2756 1453,2738"/>
+                <Baseline points="1459,2787 1501,2787 1546,2787 1590,2784 1635,2787 1680,2787 1725,2787 1770,2787 1814,2787 1859,2787 1904,2787 1949,2784 1993,2787 2038,2787 2083,2787 2128,2784 2173,2784 2217,2784 2262,2781 2307,2781"/>
+                <TextEquiv>
+                    <Unicode>hach zakona bożieho. Nicz neopuſtil z</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="1450,2859 2277,2865 2302,2801 1450,2806"/>
+                <Baseline points="1456,2847 1498,2850 1543,2850 1587,2850 1632,2850 1677,2850 1722,2850 1767,2850 1811,2850 1856,2850 1901,2850 1946,2850 1990,2850 2035,2847 2080,2847 2125,2847 2170,2847 2214,2844 2259,2844 2304,2835"/>
+                <TextEquiv>
+                    <Unicode>tiech rzeczij · ktereż byl przikazal Moy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="1450,2936 1577,2912 1774,2945 1903,2918 2159,2938 2287,2916 2311,2872 1451,2865"/>
+                <Baseline points="1456,2910 1462,2910 1507,2913 1552,2910 1596,2907 1641,2910 1686,2913 1731,2913 1776,2910 1820,2913 1865,2913 1910,2913 1955,2913 1999,2913 2044,2913 2089,2910 2134,2907 2178,2907 2223,2907 2268,2904 2313,2901"/>
+                <TextEquiv>
+                    <Unicode>żieſs · Ale wſſeczkny opiecżil przede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="1456,2984 2097,3001 2315,2983 2317,2919 1775,2945 1575,2913 1457,2939"/>
+                <Baseline points="1462,2972 1468,2972 1513,2972 1558,2972 1602,2972 1647,2972 1692,2972 1737,2972 1781,2972 1826,2972 1871,2975 1916,2972 1961,2972 2005,2972 2050,2969 2095,2969 2140,2969 2184,2969 2229,2966 2274,2966 2319,2969"/>
+                <TextEquiv>
+                    <Unicode>wſſijm lidem izrahelſkym · żenam · diet¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="1450,3049 2304,3056 2304,2988 2238,2970 1997,3006 1450,2986"/>
+                <Baseline points="1456,3035 1501,3035 1546,3035 1590,3035 1635,3035 1680,3038 1725,3038 1770,3038 1814,3038 1859,3041 1904,3038 1949,3038 1993,3038 2038,3038 2083,3035 2128,3035 2173,3035 2217,3032 2262,3029 2307,3026"/>
+                <TextEquiv>
+                    <Unicode>kam ·  y hoſtem · kterziż mezy nimi by¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="1450,3112 1483,3125 1516,3124 1525,3131 1541,3121 1577,3126 1581,3061 1561,3065 1546,3051 1521,3044 1495,3046 1483,3056 1471,3050 1452,3054"/>
+                <Baseline points="1456,3095 1492,3101 1537,3098 1582,3092"/>
+                <TextEquiv>
+                    <Unicode>dlili ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>puſſt nawratili ſu ſe zaſe ſynowe Izra¬
+heſſiz k mieſtu ay a z mordowali
+wſſeczky kterziz byli w Mieſtie.Bieſſe
+pak teci kterziz na tom mieſtie z mordo¬
+wani ſu od muże aż do żeny.dwanat.
+czte tiſycow wſſiczkni obywatelee Mie¬
+ſta ha Ale Iozize neſpuſtil ruky ſwe¬ 
+kteruz byl zdwihl z huoru drże ſſat. do¬
+kwadż negſu z mordowani wſſickni o¬
+Sywatele Mieſta hay dobytek pak a lu¬
+pez Mieſta rozbitowali ſu mezy ſebu ſy¬
+nowe Izrahelſſti iakoz przikazal pan
+Iozue.kteryzto wypalil mieſto.a vcżi¬
+nil cże w hromadu wieċnu.a krale gich
+obie ſyl naſlibeniczy až do zapadu ſlun¬
+cze a prczer przikazal Iozie a ſlozili
+ſu s ſbenicze tielo geho a wrhli ſu ge¬
+do brany.Mieſta.na metawſſe naṅ we
+ſkṙi hromadu keme kteraż trwa aż
+do dneſſka. Tehdy vdielal geſt Ioze¬
+oltarz panu bohu na huorze bal.ii.
+krz byl przikazal zdyczeſs ſluha bożi¬
+ſynom Izrahelſkym a iakoż pſano ḡt 
+w zakonie.Moyžíeſſowie.oltarz z kzme.
+nie ne yhlazeneho kterehoż nedoteklo ſe¬
+železo.Y obietowal geſt na niem obieti.
+witiezne a pokoyne.a napſal na kniē 
+nil przikazanie zakona Moyzieſſowa. 
+kterez on byl rozkazal ſynem Izrahel¬
+ſkym.Wſſickni pak ſtraſſie lidu a ſu¬
+dcze y wuodcze ſtali gſu s obu ſtranu
+archy przed oblicże gem knieżij.kterzij
+neſli archu bożi.tak przichoze iako y do¬
+ay polowite lidu ſtaſo yhory gary
+zym.a polowicze y huory Ebal.iakoz¬
+byl rozkazal zuoyzieſs ſluzebnik bozi¬
+A nayprwe zagiſte dal pożehnanie ſi¬
+du Izrahelſkemu poto pak cżetl wſſecz¬
+kna ſlowa pożehnanie a zlorzeczenie. Y
+wſſeckny rzeczi ktereż byly pſany w kni¬
+hach zakona bożieho. Nicz neopuſtil z
+tiech rzeczij ktereż byl przikazal Moy¬
+zieſs. Ale wſſeczkny opieczil przede¬
+wſſizni lidem Izrahelſkyni.żenam.diet
+kani y hoſiem kterziz mezy nimi by¬
+dlili.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=58856:lm=none:date=06_12_2024_09:00</Creator>
+        <Created>2024-11-22T17:31:47.513+01:00</Created>
+        <LastChange>2024-12-10T09:45:58.506+01:00</LastChange>
+        <TranskribusMetadata docId="5363448" pageId="84612235" pageNr="25" tsid="211335826" status="GT" userId="100969" imgUrl="https://files.transkribus.eu/Get?id=NQZMSJEGILLISBHIUREMVJIP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KGILEKYWIMUSTBMYZGLDTCMV" imageId="69884188"/>
+    </Metadata>
+    <Page imageFilename="DTL_547662-0026.jpeg" imageWidth="2530" imageHeight="3955">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1734605778875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="390,411 417,3273 1353,3284 1331,395"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1123,299 1346,268 1450,297 1479,280 1517,287 1518,198 1476,186 1391,172 1359,192 1303,185 1255,201 1126,191"/>
+                <Baseline points="1131,250 1156,255 1182,255 1208,253 1234,253 1260,253 1286,253 1312,253 1337,253 1363,253 1389,253 1415,251 1441,250 1467,250 1493,247 1519,244"/>
+                <TextEquiv>
+                    <Unicode>Prwnie knihy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:1;}">
+                <Coords points="432,482 1101,476 1225,445 1291,468 1301,404 1053,376 726,411 670,377 433,390"/>
+                <Baseline points="438,468 481,459 524,457 567,456 611,456 654,455 697,453 741,453 784,453 827,453 871,452 914,450 957,450 1000,450 1044,449 1087,447 1130,447 1174,444 1217,444 1260,444 1304,444"/>
+                <TextEquiv>
+                    <Unicode>gſem zabil muże ſkrze ranu ſwau · a ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:2;}">
+                <Coords points="423,527 1283,535 1305,466 423,484"/>
+                <Baseline points="429,519 472,519 516,519 560,519 604,519 648,519 692,518 736,516 780,516 824,516 868,516 911,516 955,516 999,513 1043,510 1087,510 1131,510 1175,510 1219,507 1263,507 1307,510"/>
+                <TextEquiv>
+                    <Unicode>mladencze · z boleſti me : ſedmera pom¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:3;}">
+                <Coords points="423,608 1263,591 1304,578 1305,527 424,532"/>
+                <Baseline points="429,585 472,582 516,582 560,582 604,581 648,579 692,579 736,579 780,579 824,579 868,578 911,576 955,576 999,576 1043,573 1087,573 1131,570 1175,570 1219,570 1263,570 1307,570"/>
+                <TextEquiv>
+                    <Unicode>ſta dana bude pro kayna · ale pro lame¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:4;}">
+                <Coords points="423,663 1299,644 1300,583 1213,577 424,608"/>
+                <Baseline points="429,644 472,644 516,643 559,641 603,641 647,641 690,641 734,641 777,641 821,640 865,638 908,638 952,637 995,635 1039,635 1083,635 1126,635 1170,635 1213,632 1257,632 1301,626"/>
+                <TextEquiv>
+                    <Unicode>cha · ſedmdeſatekrat ſedmkrat mſſtie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:5;}">
+                <Coords points="417,723 1294,712 1305,647 417,673"/>
+                <Baseline points="423,710 467,707 511,706 555,704 599,704 644,704 688,703 732,701 776,701 820,701 865,701 909,701 953,701 997,698 1041,701 1086,698 1130,698 1174,698 1218,698 1262,695 1307,692"/>
+                <TextEquiv>
+                    <Unicode>no bude · Poznal ge pak geſſtie Adam
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:6;}">
+                <Coords points="428,800 1310,769 1311,706 1057,735 430,722"/>
+                <Baseline points="435,773 478,772 522,769 566,767 610,766 654,764 698,764 742,764 786,764 830,764 874,764 917,764 961,761 1005,761 1049,761 1093,761 1137,761 1181,758 1225,758 1269,758 1313,755"/>
+                <TextEquiv>
+                    <Unicode>żenu ſwu · a porodila ſyna a nazwal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:7;}">
+                <Coords points="426,835 1284,841 1314,770 426,799"/>
+                <Baseline points="432,832 476,832 520,832 564,831 608,829 653,828 697,825 741,823 785,826 829,826 874,823 918,823 962,823 1006,820 1050,820 1095,820 1139,820 1183,817 1227,820 1271,817 1316,817"/>
+                <TextEquiv>
+                    <Unicode>gmeno geho Seth · rzka · poſtawil mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:8;}">
+                <Coords points="422,908 1313,894 1293,833 511,861 424,833"/>
+                <Baseline points="429,898 473,895 517,895 562,892 606,892 650,889 695,889 739,886 783,886 828,886 872,886 916,889 961,886 1005,886 1049,886 1094,883 1138,883 1182,883 1227,880 1271,880 1316,880"/>
+                <TextEquiv>
+                    <Unicode>buoh plemie gine mieſto. Abele · ktere¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:9;}">
+                <Coords points="417,975 1290,965 1305,897 417,917"/>
+                <Baseline points="423,961 467,958 511,957 555,954 599,952 644,952 688,951 732,949 776,949 820,949 865,949 909,952 953,949 997,949 1041,949 1086,949 1130,946 1174,943 1218,943 1262,943 1307,943"/>
+                <TextEquiv>
+                    <Unicode>hożto zabil kayn. Ale y Sethowi naro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:10;}">
+                <Coords points="426,1047 699,1015 1234,1033 1298,1006 1299,962 427,987"/>
+                <Baseline points="432,1023 475,1020 518,1018 562,1016 605,1014 649,1014 692,1014 736,1014 779,1014 823,1013 866,1011 909,1011 953,1011 996,1010 1040,1008 1083,1008 1127,1005 1170,1005 1214,1005 1257,1002 1301,996"/>
+                <TextEquiv>
+                    <Unicode>zen ge ſyn · kterehoż nazwal Enoſa ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:11;}">
+                <Coords points="411,1091 521,1128 627,1087 1015,1113 1301,1080 1302,1012 411,1048"/>
+                <Baseline points="417,1083 461,1083 505,1083 550,1080 594,1077 638,1077 683,1077 727,1074 771,1074 816,1077 860,1074 904,1074 949,1074 993,1071 1037,1071 1082,1071 1126,1071 1170,1068 1215,1068 1259,1065 1304,1065"/>
+                <TextEquiv>
+                    <Unicode>tentoṫ ge pocżal wzywati gmen o panie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:12;}">
+                <Coords points="596,1156 1301,1139 1294,1084 1161,1082 1008,1127 931,1086 598,1092"/>
+                <Baseline points="602,1134 637,1140 672,1140 707,1140 742,1140 777,1139 812,1137 847,1137 882,1137 917,1137 953,1137 988,1140 1023,1133 1058,1129 1093,1128 1128,1128 1163,1128 1198,1124 1233,1121 1268,1118 1304,1116"/>
+                <TextEquiv>
+                    <Unicode>Atot geſt kniha Ca ·V ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:13;}">
+                <Coords points="539,1205 724,1230 1304,1212 1285,1134 804,1167 619,1163 542,1127"/>
+                <Baseline points="546,1205 584,1202 622,1202 660,1202 698,1202 736,1201 774,1199 812,1199 850,1199 888,1197 926,1196 964,1195 1002,1193 1040,1193 1078,1193 1116,1191 1154,1192 1192,1193 1230,1192 1268,1190 1307,1193"/>
+                <TextEquiv>
+                    <Unicode>z rodu Adamowa · w den kteryż</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:14;}">
+                <Coords points="584,1291 1268,1271 1295,1265 1296,1233 1250,1201 585,1231"/>
+                <Baseline points="591,1265 626,1265 661,1263 697,1262 732,1262 767,1262 803,1262 838,1262 873,1262 909,1261 944,1259 979,1259 1015,1257 1050,1255 1085,1253 1121,1253 1156,1253 1191,1253 1227,1253 1262,1252 1298,1250"/>
+                <TextEquiv>
+                    <Unicode>ge ſtworzil buoh cżlowieka : ku</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:15;}">
+                <Coords points="427,1365 1304,1324 1305,1272 649,1274 616,1301 431,1229"/>
+                <Baseline points="435,1331 478,1331 522,1330 565,1328 609,1327 653,1325 696,1325 740,1325 783,1325 827,1324 871,1322 914,1322 958,1321 1001,1318 1045,1316 1089,1316 1132,1316 1176,1316 1219,1313 1263,1313 1307,1310"/>
+                <TextEquiv>
+                    <Unicode>podobenſtwie božiemu vcżinil ho : mu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:16;}">
+                <Coords points="423,1423 1273,1397 1310,1389 1312,1324 672,1331 424,1371"/>
+                <Baseline points="429,1393 473,1392 517,1390 561,1390 605,1389 650,1385 694,1387 738,1387 782,1384 826,1384 871,1384 915,1382 959,1382 1003,1379 1047,1382 1092,1379 1136,1379 1180,1376 1224,1376 1268,1376 1313,1373"/>
+                <TextEquiv>
+                    <Unicode>že a żenu ſtworzil geſt ge · a požehnal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:17;} abbrev {offset:33; length:3;expansion:Adam;}">
+                <Coords points="425,1480 1310,1453 1300,1389 426,1421"/>
+                <Baseline points="432,1456 476,1456 520,1454 564,1450 608,1449 652,1447 696,1447 740,1446 784,1445 828,1447 872,1447 916,1444 960,1444 1004,1444 1048,1441 1092,1438 1136,1441 1180,1438 1224,1438 1268,1438 1313,1432"/>
+                <TextEquiv>
+                    <Unicode>geſt gim · y nazwal · gmeno gich Adā</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:18;}">
+                <Coords points="428,1538 1304,1516 1285,1446 430,1480"/>
+                <Baseline points="435,1516 478,1514 522,1516 565,1515 609,1513 653,1512 696,1510 740,1510 783,1509 827,1508 871,1509 914,1507 958,1506 1001,1504 1045,1504 1089,1504 1132,1504 1176,1501 1219,1501 1263,1501 1307,1501"/>
+                <TextEquiv>
+                    <Unicode>w den kteryżto ſtworzeni gſu : byl geſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:19;}">
+                <Coords points="427,1606 627,1578 1222,1587 1304,1577 1305,1521 428,1538"/>
+                <Baseline points="435,1582 478,1578 522,1576 565,1576 609,1575 653,1573 696,1572 740,1570 783,1570 827,1570 871,1570 914,1570 958,1569 1001,1567 1045,1567 1089,1567 1132,1564 1176,1564 1219,1564 1263,1561 1307,1564"/>
+                <TextEquiv>
+                    <Unicode>pak żiw Adam Sto trzidczeti leth · a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:20;}">
+                <Coords points="444,1659 1314,1643 1315,1576 1242,1570 445,1596"/>
+                <Baseline points="450,1641 493,1639 536,1638 579,1636 623,1635 666,1634 709,1632 753,1632 796,1632 839,1632 883,1631 926,1629 969,1629 1012,1629 1056,1628 1099,1626 1142,1626 1186,1626 1229,1626 1272,1623 1316,1623"/>
+                <TextEquiv>
+                    <Unicode>zplodil Syna · k obrazu · a ku podoben¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:21;}">
+                <Coords points="432,1727 749,1699 1267,1716 1310,1697 1311,1646 433,1666"/>
+                <Baseline points="438,1704 481,1701 525,1701 569,1700 613,1697 656,1695 700,1695 744,1694 788,1693 831,1694 875,1692 919,1692 963,1691 1006,1689 1050,1686 1094,1689 1138,1689 1181,1686 1225,1686 1269,1686 1313,1683"/>
+                <TextEquiv>
+                    <Unicode>ſtwie ſwemu · a nazwal gmeno geho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:22;}">
+                <Coords points="428,1784 1300,1762 1301,1708 1127,1697 1022,1726 748,1699 430,1728"/>
+                <Baseline points="435,1764 478,1764 521,1764 565,1761 608,1758 652,1758 695,1758 739,1758 782,1757 826,1755 869,1755 912,1755 956,1755 999,1754 1043,1751 1086,1749 1130,1749 1173,1749 1217,1746 1260,1746 1304,1743"/>
+                <TextEquiv>
+                    <Unicode>Seth · y vcżinieni gſu dnowe Adamo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:23;}">
+                <Coords points="428,1828 514,1855 1310,1825 1290,1758 430,1785"/>
+                <Baseline points="435,1826 478,1825 522,1823 566,1823 610,1823 654,1823 698,1822 742,1820 786,1820 830,1819 874,1817 917,1817 961,1817 1005,1814 1049,1814 1093,1811 1137,1811 1181,1808 1225,1805 1269,1808 1313,1805"/>
+                <TextEquiv>
+                    <Unicode>wi potom kdyż ge zplodil Setha · Oſm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_49" custom="readingOrder {index:24;}">
+                <Coords points="456,1916 705,1885 759,1911 1102,1878 1180,1903 1219,1873 1312,1896 1314,1824 457,1838"/>
+                <Baseline points="462,1888 504,1889 547,1889 590,1887 632,1886 675,1882 718,1880 760,1880 803,1880 846,1880 889,1880 931,1879 974,1877 1017,1876 1059,1874 1102,1874 1145,1873 1187,1871 1230,1869 1273,1874 1316,1874"/>
+                <TextEquiv>
+                    <Unicode>Seth ſeth · y plodil ſyny a dczery. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_51" custom="readingOrder {index:25;}">
+                <Coords points="437,1962 1313,1951 1314,1895 1221,1881 438,1906"/>
+                <Baseline points="444,1946 487,1947 531,1949 574,1948 618,1945 662,1944 705,1945 749,1944 792,1945 836,1943 880,1943 923,1942 967,1940 1010,1940 1054,1940 1098,1937 1141,1937 1185,1937 1228,1934 1272,1934 1316,1931"/>
+                <TextEquiv>
+                    <Unicode>vcżinien geſt weſſkeren cżas kteryż ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_53" custom="readingOrder {index:26;} abbrev {offset:8; length:3;expansion:Adam;}">
+                <Coords points="437,2042 1286,2019 1311,1949 438,1964"/>
+                <Baseline points="444,2017 487,2014 530,2012 574,2010 617,2008 661,2007 704,2005 748,2004 791,2002 835,2002 878,2002 921,2002 965,2002 1008,2001 1052,1999 1095,1999 1139,1996 1182,1996 1226,1996 1269,1996 1313,1993"/>
+                <TextEquiv>
+                    <Unicode>żyw byl Adā · leth dewietſeth trzidczeti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_55" custom="readingOrder {index:27;}">
+                <Coords points="440,2103 1309,2071 1310,2026 1272,2010 442,2045"/>
+                <Baseline points="447,2077 490,2074 533,2074 576,2072 620,2071 663,2070 706,2067 750,2064 793,2062 836,2063 880,2064 923,2062 966,2062 1009,2062 1053,2061 1096,2059 1139,2059 1183,2056 1226,2056 1269,2056 1313,2044"/>
+                <TextEquiv>
+                    <Unicode>y vmrzel geſt · Žiw ge take byl Seth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_57" custom="readingOrder {index:28;}">
+                <Coords points="437,2163 1316,2135 1318,2068 438,2100"/>
+                <Baseline points="444,2140 487,2137 531,2136 575,2134 619,2134 662,2133 706,2131 750,2130 794,2128 837,2128 881,2128 925,2127 969,2125 1012,2125 1056,2122 1100,2122 1144,2119 1187,2119 1231,2119 1275,2119 1319,2119"/>
+                <TextEquiv>
+                    <Unicode>Sto piet leth a zplodil ge Enoſa · a byl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_59" custom="readingOrder {index:29;}">
+                <Coords points="440,2229 1179,2208 1303,2192 1305,2138 442,2167"/>
+                <Baseline points="447,2202 490,2200 533,2199 576,2197 619,2194 662,2193 705,2191 748,2190 791,2190 834,2190 877,2189 920,2188 963,2188 1006,2184 1049,2184 1092,2184 1135,2184 1178,2184 1221,2181 1264,2181 1307,2178"/>
+                <TextEquiv>
+                    <Unicode>ge žiw Seth potom kdyż ge zplodil E¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_61" custom="readingOrder {index:30;} abbrev {offset:38; length:2;expansion:gest;}">
+                <Coords points="428,2277 1267,2270 1306,2258 1309,2191 428,2239"/>
+                <Baseline points="435,2265 478,2262 522,2260 566,2256 610,2256 653,2255 697,2253 741,2253 785,2252 828,2250 872,2250 916,2250 960,2249 1003,2247 1047,2244 1091,2244 1135,2244 1178,2244 1222,2244 1266,2244 1310,2244"/>
+                <TextEquiv>
+                    <Unicode>noſa · oſmſeth a ſedm leth · a plodil ḡt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_63" custom="readingOrder {index:31;}">
+                <Coords points="443,2351 1052,2309 1294,2333 1305,2267 444,2280"/>
+                <Baseline points="450,2328 492,2326 535,2323 578,2320 621,2319 664,2317 707,2314 749,2311 792,2310 835,2311 878,2312 921,2311 964,2312 1007,2310 1049,2309 1092,2307 1135,2307 1178,2307 1221,2304 1264,2307 1307,2310"/>
+                <TextEquiv>
+                    <Unicode>ſyny a dczery · Y vcżinieni gſu wſſicz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_65" custom="readingOrder {index:32;}">
+                <Coords points="435,2402 1279,2395 1314,2325 436,2350"/>
+                <Baseline points="441,2390 484,2387 528,2386 572,2383 616,2380 659,2378 703,2377 747,2375 791,2375 834,2375 878,2375 922,2373 966,2373 1009,2373 1053,2373 1097,2370 1141,2370 1184,2367 1228,2370 1272,2367 1316,2367"/>
+                <TextEquiv>
+                    <Unicode>kni dnowe Seth · dewietſeth dwanacz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_67" custom="readingOrder {index:33;}">
+                <Coords points="435,2465 1225,2438 1316,2466 1319,2371 1279,2396 436,2402"/>
+                <Baseline points="441,2453 484,2450 528,2448 572,2443 616,2441 660,2441 704,2440 748,2438 792,2437 836,2435 880,2435 923,2435 967,2435 1011,2432 1055,2432 1099,2432 1143,2432 1187,2432 1231,2432 1275,2429 1319,2432"/>
+                <TextEquiv>
+                    <Unicode>te leth · a vmrzel geſt : żiw ge pak byl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_69" custom="readingOrder {index:34;}">
+                <Coords points="440,2532 1276,2519 1314,2464 735,2450 441,2483"/>
+                <Baseline points="447,2513 490,2511 533,2508 577,2506 620,2504 664,2503 707,2501 751,2501 794,2500 838,2498 881,2498 924,2498 968,2497 1011,2495 1055,2495 1098,2495 1142,2492 1185,2492 1229,2495 1272,2492 1316,2486"/>
+                <TextEquiv>
+                    <Unicode>Enos · dewadeſate let · a zplodil ge kay¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_71" custom="readingOrder {index:35;}">
+                <Coords points="444,2599 593,2574 1261,2586 1309,2576 1311,2503 445,2541"/>
+                <Baseline points="450,2575 493,2573 536,2571 579,2568 622,2567 665,2565 708,2564 752,2564 795,2563 838,2561 881,2561 924,2560 967,2558 1010,2558 1054,2558 1097,2557 1140,2555 1183,2555 1226,2555 1269,2552 1313,2546"/>
+                <TextEquiv>
+                    <Unicode>nana. Po gehożto narozenij żiw byl ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_73" custom="readingOrder {index:36;}">
+                <Coords points="444,2652 1298,2643 1314,2564 445,2599"/>
+                <Baseline points="450,2635 493,2636 536,2633 579,2632 623,2629 666,2626 709,2626 753,2625 796,2623 839,2623 883,2622 926,2620 969,2619 1012,2617 1056,2617 1099,2617 1142,2617 1186,2617 1229,2617 1272,2617 1316,2617"/>
+                <TextEquiv>
+                    <Unicode>oſm leth a patnatczte let · a plodil ſyny</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_75" custom="readingOrder {index:37;}">
+                <Coords points="443,2708 1314,2700 1315,2632 445,2653"/>
+                <Baseline points="450,2701 493,2698 536,2696 579,2693 623,2690 666,2689 709,2688 753,2686 796,2686 839,2685 883,2683 926,2682 969,2681 1012,2682 1056,2680 1099,2680 1142,2680 1186,2680 1229,2680 1272,2680 1316,2674"/>
+                <TextEquiv>
+                    <Unicode>a dcery · A vcżinieni gſu wſſiczkni dno¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_77" custom="readingOrder {index:38;}">
+                <Coords points="456,2779 1300,2767 1326,2701 748,2693 457,2727"/>
+                <Baseline points="462,2758 505,2758 548,2756 591,2755 635,2753 678,2751 721,2749 765,2748 808,2746 851,2746 895,2746 938,2745 981,2743 1024,2743 1068,2743 1111,2743 1154,2743 1198,2740 1241,2740 1284,2737 1328,2740"/>
+                <TextEquiv>
+                    <Unicode>we Enoſowi · dewietſech piet leth · y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_79" custom="readingOrder {index:39;}">
+                <Coords points="452,2833 1290,2826 1325,2817 1326,2762 453,2774"/>
+                <Baseline points="459,2823 502,2821 545,2818 589,2817 632,2814 676,2811 719,2810 763,2809 806,2810 850,2807 893,2806 936,2807 980,2805 1023,2805 1067,2805 1110,2805 1154,2805 1197,2802 1241,2802 1284,2802 1328,2802"/>
+                <TextEquiv>
+                    <Unicode>vmrzel geſt · Žiw ge take byl kaynaan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_81" custom="readingOrder {index:40;}">
+                <Coords points="446,2907 1312,2872 1312,2828 1217,2813 448,2839"/>
+                <Baseline points="453,2886 496,2884 539,2881 582,2880 625,2878 668,2875 711,2874 755,2873 798,2871 841,2871 884,2870 927,2868 970,2868 1013,2868 1057,2867 1100,2865 1143,2865 1186,2865 1229,2865 1272,2865 1316,2859"/>
+                <TextEquiv>
+                    <Unicode>ſedmdeſate leth · a zplodil Malalehele ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_83" custom="readingOrder {index:41;}">
+                <Coords points="456,2961 1235,2961 1316,2936 1318,2882 456,2907"/>
+                <Baseline points="462,2937 504,2944 547,2944 590,2941 633,2938 676,2937 719,2937 761,2935 804,2934 847,2933 890,2931 933,2931 976,2931 1019,2931 1061,2931 1104,2930 1147,2928 1190,2931 1233,2928 1276,2928 1319,2922"/>
+                <TextEquiv>
+                    <Unicode>A żiw byl kaynan potom kdyż ge zplo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_85" custom="readingOrder {index:42;}">
+                <Coords points="450,3018 1331,3010 1333,2929 1276,2960 979,2938 451,2966"/>
+                <Baseline points="456,3005 499,3008 543,3006 587,3002 631,3002 675,3001 719,2999 763,2998 807,2995 851,2993 895,2993 938,2993 982,2993 1026,2993 1070,2993 1114,2993 1158,2990 1202,2990 1246,2990 1290,2990 1334,2990"/>
+                <TextEquiv>
+                    <Unicode>dil Malalehele · Oſmſeth a cżtyrzidczeti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_87" custom="readingOrder {index:43;}">
+                <Coords points="440,3078 1316,3067 1318,3008 1227,2999 442,3023"/>
+                <Baseline points="447,3071 490,3070 534,3068 577,3068 621,3067 665,3064 708,3062 752,3061 795,3059 839,3058 883,3056 926,3056 970,3056 1013,3055 1057,3053 1101,3053 1144,3053 1188,3053 1231,3053 1275,3053 1319,3053"/>
+                <TextEquiv>
+                    <Unicode>leth · a plodil ſyny y dczery · A vcżinie¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_89" custom="readingOrder {index:44;}">
+                <Coords points="456,3152 1316,3132 1318,3068 457,3090"/>
+                <Baseline points="462,3137 504,3132 547,3131 590,3131 633,3129 676,3126 719,3125 761,3125 804,3124 847,3122 890,3121 933,3119 976,3119 1019,3118 1061,3116 1104,3116 1147,3116 1190,3115 1233,3110 1276,3113 1319,3110"/>
+                <TextEquiv>
+                    <Unicode>ni gſu wſſiczkni dnowe kaynanowi · de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_91" custom="readingOrder {index:45;}">
+                <Coords points="441,3211 1329,3195 1309,3122 442,3157"/>
+                <Baseline points="447,3196 491,3196 535,3195 579,3193 623,3192 668,3190 712,3189 756,3187 800,3187 844,3184 889,3184 933,3181 977,3178 1021,3181 1065,3178 1110,3178 1154,3178 1198,3175 1242,3178 1286,3175 1331,3175"/>
+                <TextEquiv>
+                    <Unicode>wiet ſeth a deſet leth · y vmrzel geſt :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_93" custom="readingOrder {index:46;}">
+                <Coords points="452,3299 1058,3257 1157,3297 1338,3258 1339,3193 1199,3178 1127,3207 454,3210"/>
+                <Baseline points="459,3259 503,3259 547,3258 591,3256 635,3255 679,3253 723,3253 767,3252 811,3247 855,3247 899,3247 943,3247 987,3244 1031,3241 1075,3241 1119,3241 1163,3241 1207,3241 1251,3241 1295,3241 1340,3238"/>
+                <TextEquiv>
+                    <Unicode>žiw pak byl · Malalehel · Seſtdeſate a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Prwnie. knih y
+gſem zabil muze ſkrze ranu ſwai a∙
+mladencze. z boleſti nez ſedmera pom¬
+ſta dana bude pro klyna. ale pro lanie¬
+cha ſedmdeſatekrat ſedm kratniſſtie
+no bude. Poznal ge pak geſſtie A dani
+żenu ſwu a porodila ſyna a nazwal
+czineno geho Seth Rzkk poſtawil mi¬
+buoh plenie gine mie ſto. A beẛe.ktere¬
+ho zto zabil kayi. Ale y Sechowi naro¬
+zen ge ſyn  kterehoż nazwal.Knoſa.
+tentoṫ ge poczal wzywati gnen o panie
+A tot geſt kniha a.
+podu. Adamowa.w den kteryż
+ge ſtworzil buoh czlowieku kti¬
+po dobenſtwie boziemu vczinil ho. muj¬ 
+ze a żenu ſtworzil geſt gera pozehnal
+geſt gn y nazwal. gmeno gich A d 
+w den kteryzto ſtworzeni gſuz byl geſt
+pak ziw Adani Sto trzidczeti leth.a
+plodil Syna k obrazu. a ku podoben¬
+ſtwie ſwemua nazwal gmeno geho
+Seth y vczinieni gſu dnowe Adamo¬
+wi potom kdyz ge zplodil Setha.Oſni
+Seth ſeth. Y plodil ſyny a dczery. N
+cżinien cżeſt we ſſkren cżas kteryż ge¬
+zyw byl Ada.leth de wietſeth trzidczeti
+y umrzel geſt.Hziw cze take byl Seth
+Sko piet ſech a zplodil ge Knoſa. a byl
+ge ziw Seth potom kdyż ge zplodil ts¬
+noſe. oſmſech a ſedm ſech a plodil ḡt 
+ſyny a dczery.Y vcżinieni gſu wſſicz¬
+kni dnowe.Seth.do wietſeth dwanacz¬
+te leth.a umrzel geſt zim ge pak byl
+E nos dewadeſate ſet. a zplodil ge kay toa
+nana. Po ge hożto narozeniž żiw byl.
+oſm ſech a patnatczte ſet. a plodil ſyny
+a dcery.A uczinieni czſu wſſiczkni dno
+we Knoſowi ke wietſech piet ſeth. Y
+ym rzel geſt. Rziw cze take byl klynaan
+ſedmdeſate ſe th.a zplodil.Malaleheſe.
+A żiw byl kzynan potom kdyz ge zplo¬
+dil Malaſehele. Oſmſeth a cztyrzidczeti
+leth.a plodil ſyny y dczery.A vcżinie.
+ni gſu wſſiczkni dnowe klynanowi. de.
+wietſech a deſet ſech. y ymrzel geſt
+ziv pak byl Malalehel. Seſtdeſate a</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="1383,412 2348,412 2348,3300 1383,3300"/>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:0;}">
+                <Coords points="1406,473 2026,436 2260,461 2284,366 1407,379"/>
+                <Baseline points="1414,444 1457,441 1501,440 1544,438 1588,437 1632,435 1675,435 1719,435 1762,435 1806,435 1850,435 1893,435 1937,434 1980,432 2024,432 2068,432 2111,432 2155,432 2198,432 2242,432 2286,429"/>
+                <TextEquiv>
+                    <Unicode>piet leth · y zplodil Iareda. A żiw byl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:1;}">
+                <Coords points="1402,516 2007,534 2050,505 2280,498 2280,456 2167,438 1402,472"/>
+                <Baseline points="1408,501 1451,501 1495,501 1539,501 1583,500 1626,497 1670,496 1714,498 1758,498 1801,498 1845,499 1889,500 1933,497 1976,495 2020,498 2064,498 2108,495 2151,492 2195,495 2239,492 2283,495"/>
+                <TextEquiv>
+                    <Unicode>malalehel . Potom kdyż zplodil Iare¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:2;}">
+                <Coords points="1405,577 2282,575 2277,498 2007,534 1406,518"/>
+                <Baseline points="1411,564 1454,563 1498,562 1542,564 1586,564 1629,564 1673,564 1717,564 1761,564 1804,563 1848,561 1892,561 1936,561 1979,561 2023,558 2067,558 2111,558 2154,558 2198,558 2242,558 2286,555"/>
+                <TextEquiv>
+                    <Unicode>da · Oſm ſeth a trzidczeti leth · a plodil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:3;}">
+                <Coords points="1402,652 1800,626 2177,654 2270,637 2271,582 1403,587"/>
+                <Baseline points="1408,629 1451,629 1494,627 1537,626 1581,626 1624,626 1667,625 1711,622 1754,621 1797,623 1841,623 1884,623 1927,623 1970,622 2014,620 2057,620 2100,620 2144,620 2187,617 2230,617 2274,611"/>
+                <TextEquiv>
+                    <Unicode>ſyny a dczery · Y vcżinieni gſu wſſicz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:4;}">
+                <Coords points="1405,707 2281,692 2282,633 1406,654"/>
+                <Baseline points="1411,692 1454,691 1498,689 1541,689 1585,689 1629,688 1672,686 1716,686 1759,686 1803,686 1847,686 1890,685 1934,683 1977,683 2021,683 2065,680 2108,683 2152,683 2195,680 2239,680 2283,680"/>
+                <TextEquiv>
+                    <Unicode>kni dnowe Malalehelowi · Oſm ſeth a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:5;}">
+                <Coords points="1405,770 2277,758 2266,690 1406,710"/>
+                <Baseline points="1411,755 1454,753 1497,752 1541,752 1584,752 1628,751 1671,749 1715,749 1758,749 1802,748 1845,746 1888,746 1932,746 1975,746 2019,745 2062,743 2106,743 2149,743 2193,743 2236,743 2280,740"/>
+                <TextEquiv>
+                    <Unicode>dewadeſate piet leth · y vmrzel geſt · A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:6;}">
+                <Coords points="1395,842 2287,817 2287,764 2256,755 1396,766"/>
+                <Baseline points="1402,814 1446,814 1490,814 1535,814 1579,811 1623,811 1668,811 1712,811 1756,811 1801,811 1845,811 1889,808 1934,808 1978,808 2022,808 2067,808 2111,805 2155,805 2200,805 2244,805 2289,805"/>
+                <TextEquiv>
+                    <Unicode>żiw byl Iared Sto ſſeſtdeſate a dwie le¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:7;}">
+                <Coords points="1395,891 2280,879 2280,821 2141,809 1913,844 1707,820 1396,842"/>
+                <Baseline points="1402,877 1446,877 1490,876 1534,874 1578,874 1622,874 1666,874 1710,873 1754,871 1798,871 1842,871 1886,871 1930,871 1974,871 2018,871 2062,868 2106,868 2150,865 2194,868 2238,868 2283,865"/>
+                <TextEquiv>
+                    <Unicode>tie · a zplodil Enocha : y žiw byl Iared</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:8;}">
+                <Coords points="1402,947 2273,945 2262,877 2153,904 1958,879 1403,895"/>
+                <Baseline points="1408,934 1451,939 1494,938 1538,937 1581,937 1625,937 1668,936 1712,934 1755,934 1799,934 1842,934 1885,934 1929,934 1972,934 2016,933 2059,931 2103,931 2146,931 2190,931 2233,928 2277,928"/>
+                <TextEquiv>
+                    <Unicode>Potom kdyż ge zplodil Enocha · Oſm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:9;}">
+                <Coords points="1402,1026 2260,1015 2274,945 1403,958"/>
+                <Baseline points="1408,1005 1451,1000 1494,999 1538,999 1581,998 1625,996 1668,996 1712,996 1755,996 1799,996 1842,996 1885,996 1929,996 1972,996 2016,996 2059,996 2103,993 2146,993 2190,993 2233,990 2277,990"/>
+                <TextEquiv>
+                    <Unicode>ſet leth · a plodil ſyny a dczery : y vcżi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:10;}">
+                <Coords points="1399,1078 2283,1072 2284,1000 1400,1025"/>
+                <Baseline points="1405,1065 1449,1062 1493,1061 1537,1059 1581,1059 1625,1059 1669,1058 1713,1057 1757,1059 1801,1059 1845,1059 1889,1059 1933,1059 1977,1056 2021,1056 2065,1056 2109,1056 2153,1056 2197,1053 2241,1050 2286,1050"/>
+                <TextEquiv>
+                    <Unicode>nieni gſu wſſiczkni dnowe Iared · De¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:11;}">
+                <Coords points="1402,1146 2250,1136 2271,1073 1403,1081"/>
+                <Baseline points="1408,1125 1451,1125 1494,1125 1537,1125 1581,1123 1624,1122 1667,1122 1711,1122 1754,1122 1797,1122 1841,1121 1884,1119 1927,1119 1970,1119 2014,1119 2057,1119 2100,1116 2144,1116 2187,1116 2230,1116 2274,1113"/>
+                <TextEquiv>
+                    <Unicode>wiet ſet ſſeſtdeſate a dwie lethie · y vm¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:12;}">
+                <Coords points="1405,1199 2281,1194 2282,1132 2228,1129 1406,1151"/>
+                <Baseline points="1411,1187 1454,1187 1498,1187 1541,1187 1585,1186 1629,1184 1672,1183 1716,1185 1759,1185 1803,1185 1847,1185 1890,1184 1934,1182 1977,1182 2021,1179 2065,1182 2108,1182 2152,1179 2195,1179 2239,1179 2283,1179"/>
+                <TextEquiv>
+                    <Unicode>rzel geſt · Pak Enoch żiw byl Seſtde¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:13;}">
+                <Coords points="1405,1281 1461,1255 1572,1279 1975,1244 2239,1262 2281,1252 2282,1202 1515,1224 1406,1201"/>
+                <Baseline points="1411,1253 1454,1247 1498,1247 1541,1247 1585,1247 1629,1247 1672,1247 1716,1247 1759,1246 1803,1244 1847,1245 1890,1246 1934,1244 1977,1244 2021,1244 2065,1244 2108,1244 2152,1241 2195,1241 2239,1238 2283,1232"/>
+                <TextEquiv>
+                    <Unicode>ſate . a piet leth : y zplodil geſt Mathu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:14;}">
+                <Coords points="1405,1321 2281,1326 2281,1252 1405,1283"/>
+                <Baseline points="1411,1310 1454,1310 1498,1310 1541,1309 1585,1307 1629,1308 1672,1310 1716,1310 1759,1309 1803,1307 1847,1307 1890,1307 1934,1307 1977,1307 2021,1307 2065,1307 2108,1307 2152,1304 2195,1304 2239,1301 2283,1292"/>
+                <TextEquiv>
+                    <Unicode>zalema · A chodil geſt Enoch z bo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:15;}">
+                <Coords points="1396,1385 2283,1386 2284,1326 2218,1315 1397,1325"/>
+                <Baseline points="1402,1373 1446,1373 1490,1372 1534,1371 1578,1373 1623,1373 1667,1373 1711,1373 1755,1370 1799,1370 1844,1370 1888,1370 1932,1370 1976,1367 2020,1367 2065,1370 2109,1367 2153,1367 2197,1367 2241,1364 2286,1361"/>
+                <TextEquiv>
+                    <Unicode>hem · A żiw byl Enoch · Potom kdy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:16;}">
+                <Coords points="1405,1462 2276,1454 2284,1382 1405,1404"/>
+                <Baseline points="1411,1435 1454,1437 1498,1435 1542,1435 1586,1435 1629,1435 1673,1435 1717,1435 1761,1434 1804,1431 1848,1430 1892,1432 1936,1431 1979,1429 2023,1429 2067,1429 2111,1429 2154,1429 2198,1429 2242,1429 2286,1429"/>
+                <TextEquiv>
+                    <Unicode>ge zplodil Mathuzalema · trzi ſta leth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:17;}">
+                <Coords points="1397,1514 2287,1506 2287,1450 2258,1442 1399,1466"/>
+                <Baseline points="1405,1495 1449,1498 1493,1498 1537,1498 1581,1498 1626,1498 1670,1495 1714,1495 1758,1495 1802,1495 1847,1495 1891,1490 1935,1489 1979,1494 2023,1493 2068,1492 2112,1492 2156,1492 2200,1490 2244,1491 2289,1495"/>
+                <TextEquiv>
+                    <Unicode>a plodil ſyny a dczery . y vcżinieni gſu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:18;}">
+                <Coords points="1402,1565 1473,1588 2278,1571 2279,1523 2236,1507 1403,1517"/>
+                <Baseline points="1408,1558 1451,1558 1495,1559 1538,1561 1582,1560 1626,1558 1669,1558 1713,1558 1756,1558 1800,1557 1844,1556 1887,1558 1931,1558 1974,1558 2018,1555 2062,1555 2105,1555 2149,1555 2192,1555 2236,1555 2280,1552"/>
+                <TextEquiv>
+                    <Unicode>wſſiczkni dnowe Enochowi : trzi ſta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:19;}">
+                <Coords points="1411,1646 2278,1637 2293,1573 1412,1573"/>
+                <Baseline points="1417,1623 1460,1623 1504,1623 1548,1622 1592,1620 1636,1620 1680,1620 1724,1620 1768,1620 1812,1620 1856,1619 1899,1614 1943,1617 1987,1617 2031,1617 2075,1617 2119,1617 2163,1614 2207,1617 2251,1620 2295,1617"/>
+                <TextEquiv>
+                    <Unicode>ſſeſtdeſate a piet leth · A chodil ge z bo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:20;}">
+                <Coords points="1402,1701 2247,1702 2292,1693 2293,1641 1402,1646"/>
+                <Baseline points="1408,1683 1452,1685 1496,1683 1541,1683 1585,1683 1629,1683 1674,1683 1718,1683 1762,1683 1807,1683 1851,1680 1895,1680 1940,1680 1984,1680 2028,1680 2073,1680 2117,1680 2161,1677 2206,1677 2250,1680 2295,1680"/>
+                <TextEquiv>
+                    <Unicode>hem · a neokrzal ſe geſt . nebo wzal ho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:21;}">
+                <Coords points="1414,1768 2073,1750 2234,1774 2280,1746 2264,1703 2172,1693 1846,1694 1793,1727 1551,1687 1414,1708"/>
+                <Baseline points="1420,1749 1463,1747 1506,1746 1549,1746 1592,1746 1635,1744 1678,1743 1722,1743 1765,1743 1808,1743 1851,1743 1894,1743 1937,1743 1980,1743 2024,1743 2067,1742 2110,1740 2153,1740 2196,1740 2239,1737 2283,1737"/>
+                <TextEquiv>
+                    <Unicode>prycż buoh : žiw ge take byl Mathuza¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:22;}">
+                <Coords points="1402,1825 2292,1809 2274,1748 2230,1774 1402,1774"/>
+                <Baseline points="1408,1808 1452,1808 1496,1808 1541,1805 1585,1805 1629,1805 1674,1805 1718,1805 1762,1805 1807,1802 1851,1805 1895,1805 1940,1805 1984,1802 2028,1802 2073,1802 2117,1802 2161,1802 2206,1802 2250,1802 2295,1802"/>
+                <TextEquiv>
+                    <Unicode>lem · Sto oſmdeſate a ſedm leth . a zplo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_48" custom="readingOrder {index:23;} abbrev {offset:24; length:9;expansion:Mathuzalem;}">
+                <Coords points="1411,1884 2289,1881 2289,1813 2186,1838 2038,1809 1411,1827"/>
+                <Baseline points="1417,1868 1460,1870 1504,1868 1548,1868 1592,1868 1635,1868 1679,1868 1723,1867 1767,1866 1810,1868 1854,1868 1898,1868 1942,1867 1985,1865 2029,1865 2073,1865 2117,1865 2160,1865 2204,1865 2248,1865 2292,1862"/>
+                <TextEquiv>
+                    <Unicode>dil Lamecha · A żiw byl Mathuzalē</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_50" custom="readingOrder {index:24;}">
+                <Coords points="1419,1960 2290,1939 2290,1880 1420,1894"/>
+                <Baseline points="1426,1937 1469,1932 1512,1931 1555,1931 1599,1931 1642,1931 1685,1931 1729,1931 1772,1931 1815,1931 1859,1930 1902,1928 1945,1928 1988,1928 2032,1928 2075,1928 2118,1925 2162,1925 2205,1928 2248,1925 2292,1922"/>
+                <TextEquiv>
+                    <Unicode>potom kdyż z plodil Lamecha · Sedm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_52" custom="readingOrder {index:25;}">
+                <Coords points="1411,2016 2284,2009 2297,1937 1412,1958"/>
+                <Baseline points="1417,1996 1461,1995 1505,1993 1549,1993 1593,1993 1637,1992 1681,1990 1725,1990 1769,1990 1813,1990 1857,1990 1901,1990 1945,1990 1989,1990 2033,1990 2077,1990 2121,1987 2165,1987 2209,1987 2253,1987 2298,1987"/>
+                <TextEquiv>
+                    <Unicode>ſet Oſmdeſate a dwie lethie : y plodil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_54" custom="readingOrder {index:26;}">
+                <Coords points="1411,2081 2148,2080 2298,2066 2299,2010 1412,2016"/>
+                <Baseline points="1417,2062 1461,2059 1505,2058 1549,2056 1593,2056 1638,2056 1682,2055 1726,2050 1770,2053 1814,2053 1859,2053 1903,2053 1947,2053 1991,2050 2035,2053 2080,2053 2124,2050 2168,2050 2212,2050 2256,2050 2301,2047"/>
+                <TextEquiv>
+                    <Unicode>ſyny a dczery · vcżinieni gſu wſſiczkni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_56" custom="readingOrder {index:27;}">
+                <Coords points="1407,2136 2292,2135 2273,2059 1407,2082"/>
+                <Baseline points="1414,2113 1458,2119 1502,2119 1546,2118 1590,2116 1634,2117 1678,2118 1722,2115 1766,2114 1810,2115 1854,2113 1898,2113 1942,2113 1986,2113 2030,2113 2074,2116 2118,2116 2162,2116 2206,2113 2250,2113 2295,2110"/>
+                <TextEquiv>
+                    <Unicode>dnowe Mathuzalem · dewiet ſeth ſſeſt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_58" custom="readingOrder {index:28;}">
+                <Coords points="1407,2204 2289,2192 2277,2131 1407,2136"/>
+                <Baseline points="1414,2178 1457,2181 1501,2180 1545,2178 1589,2178 1633,2178 1677,2177 1721,2176 1765,2177 1809,2175 1853,2175 1896,2175 1940,2175 1984,2175 2028,2175 2072,2175 2116,2175 2160,2175 2204,2173 2248,2173 2292,2167"/>
+                <TextEquiv>
+                    <Unicode>deſate a dewiet leth . a vmrzel geſt · żiw</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_60" custom="readingOrder {index:29;}">
+                <Coords points="1413,2266 2291,2258 2292,2200 1414,2206"/>
+                <Baseline points="1420,2244 1463,2241 1507,2241 1551,2241 1595,2241 1638,2241 1682,2240 1726,2237 1770,2235 1813,2236 1857,2238 1901,2238 1945,2238 1988,2238 2032,2238 2076,2238 2120,2238 2163,2238 2207,2238 2251,2235 2295,2235"/>
+                <TextEquiv>
+                    <Unicode>pak by Lamech · Sto oſmdeſate a dwie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_62" custom="readingOrder {index:30;}">
+                <Coords points="1407,2330 2289,2314 2289,2260 2260,2254 1407,2263"/>
+                <Baseline points="1414,2304 1457,2304 1501,2303 1545,2301 1589,2301 1633,2301 1677,2301 1721,2300 1765,2298 1809,2299 1853,2300 1896,2298 1940,2298 1984,2298 2028,2298 2072,2298 2116,2298 2160,2298 2204,2298 2248,2298 2292,2298"/>
+                <TextEquiv>
+                    <Unicode>letie · a zplodil ſyna · a nazwal gmeno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_64" custom="readingOrder {index:31;}">
+                <Coords points="1411,2400 1830,2369 2268,2391 2293,2315 1412,2330"/>
+                <Baseline points="1417,2367 1460,2369 1504,2366 1548,2365 1592,2366 1636,2363 1680,2361 1724,2362 1768,2364 1812,2364 1856,2364 1899,2364 1943,2364 1987,2361 2031,2361 2075,2361 2119,2361 2163,2361 2207,2361 2251,2358 2295,2355"/>
+                <TextEquiv>
+                    <Unicode>geho Noe · rzka · tentot nas potieſſij ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_66" custom="readingOrder {index:32;}">
+                <Coords points="1411,2442 1869,2431 2054,2463 2158,2421 2279,2442 2293,2399 1887,2370 1412,2400"/>
+                <Baseline points="1417,2429 1460,2428 1504,2427 1548,2428 1592,2426 1636,2426 1680,2426 1724,2425 1768,2423 1812,2423 1856,2423 1899,2423 1943,2423 1987,2423 2031,2423 2075,2423 2119,2420 2163,2420 2207,2420 2251,2423 2295,2420"/>
+                <TextEquiv>
+                    <Unicode>od praczij a robot rukau naſſich · w ze¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_68" custom="readingOrder {index:33;}">
+                <Coords points="1407,2513 2289,2504 2290,2438 2227,2431 2054,2463 1870,2432 1409,2461"/>
+                <Baseline points="1414,2492 1457,2491 1501,2489 1545,2489 1589,2489 1633,2488 1677,2487 1721,2489 1765,2488 1809,2486 1853,2486 1896,2486 1940,2486 1984,2486 2028,2486 2072,2486 2116,2486 2160,2483 2204,2483 2248,2483 2292,2477"/>
+                <TextEquiv>
+                    <Unicode>mi ktereżto zlorzecżil pan : y žiw byl la¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_70" custom="readingOrder {index:34;}">
+                <Coords points="1407,2560 1998,2581 2289,2549 2289,2504 2186,2493 1407,2516"/>
+                <Baseline points="1414,2552 1457,2552 1501,2551 1545,2549 1589,2550 1633,2551 1677,2549 1721,2549 1765,2550 1809,2551 1853,2547 1896,2549 1940,2549 1984,2549 2028,2549 2072,2549 2116,2549 2160,2546 2204,2549 2248,2546 2292,2537"/>
+                <TextEquiv>
+                    <Unicode>mech · potom kdyż ge zplodil Noe ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_72" custom="readingOrder {index:35;}">
+                <Coords points="1407,2624 2292,2630 2292,2565 2262,2554 1924,2582 1407,2561"/>
+                <Baseline points="1414,2605 1458,2614 1502,2614 1546,2611 1590,2611 1634,2611 1678,2611 1722,2611 1766,2611 1810,2611 1854,2611 1898,2609 1942,2610 1986,2611 2030,2611 2074,2611 2118,2611 2162,2611 2206,2609 2250,2608 2295,2608"/>
+                <TextEquiv>
+                    <Unicode>Piet ſeth dewadeſate a piet leth : y plo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_74" custom="readingOrder {index:36;}">
+                <Coords points="1413,2691 2294,2696 2295,2628 2256,2618 1414,2638"/>
+                <Baseline points="1420,2671 1463,2677 1507,2677 1551,2677 1595,2674 1639,2674 1683,2674 1727,2671 1771,2668 1815,2671 1859,2671 1902,2673 1946,2674 1990,2674 2034,2674 2078,2674 2122,2674 2166,2674 2210,2672 2254,2671 2298,2674"/>
+                <TextEquiv>
+                    <Unicode>dil ſyny a dcery · A vċinieni gſu wſſicz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_76" custom="readingOrder {index:37;}">
+                <Coords points="1420,2755 2295,2752 2295,2702 2194,2683 1420,2694"/>
+                <Baseline points="1426,2743 1469,2740 1513,2740 1556,2739 1600,2737 1644,2736 1687,2734 1731,2734 1774,2734 1818,2733 1862,2732 1905,2734 1949,2734 1992,2735 2036,2737 2080,2734 2123,2734 2167,2734 2210,2734 2254,2734 2298,2734"/>
+                <TextEquiv>
+                    <Unicode>kni dnowe lamechowi Sedmſeth ſedm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_78" custom="readingOrder {index:38;}">
+                <Coords points="1414,2825 2294,2816 2305,2749 1415,2754"/>
+                <Baseline points="1420,2799 1464,2802 1508,2802 1553,2799 1597,2799 1641,2799 1686,2796 1730,2796 1774,2796 1819,2793 1863,2796 1907,2796 1952,2796 1996,2796 2040,2799 2085,2796 2129,2796 2173,2796 2218,2796 2262,2796 2307,2796"/>
+                <TextEquiv>
+                    <Unicode>deſate a ſedm leth · y vmrzel geſt : Noe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_80" custom="readingOrder {index:39;}">
+                <Coords points="1414,2885 2277,2878 2302,2815 1415,2826"/>
+                <Baseline points="1420,2865 1464,2865 1508,2864 1552,2862 1596,2862 1641,2861 1685,2859 1729,2859 1773,2859 1817,2859 1862,2859 1906,2859 1950,2859 1994,2861 2038,2856 2083,2859 2127,2859 2171,2859 2215,2859 2259,2859 2304,2856"/>
+                <TextEquiv>
+                    <Unicode>pak gſa w pieti ſtech ſetech · zplodil Se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_82" custom="readingOrder {index:40;}">
+                <Coords points="1414,2938 2292,2926 2270,2872 2048,2904 1918,2868 1414,2898"/>
+                <Baseline points="1420,2928 1463,2928 1507,2927 1551,2925 1595,2924 1638,2922 1682,2922 1726,2922 1770,2921 1813,2920 1857,2922 1901,2922 1945,2921 1988,2919 2032,2916 2076,2919 2120,2919 2163,2922 2207,2919 2251,2919 2295,2916"/>
+                <TextEquiv>
+                    <Unicode>ma · a Chama · a Iaffeta · Ca · VI ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_84" custom="readingOrder {index:41;}">
+                <Coords points="1614,2999 2098,3015 2292,2994 2292,2945 2243,2936 1614,2946"/>
+                <Baseline points="1620,2987 1653,2987 1687,2986 1721,2984 1755,2984 1788,2986 1822,2987 1856,2986 1890,2984 1923,2984 1957,2984 1991,2984 2025,2984 2058,2984 2092,2984 2126,2984 2160,2984 2193,2984 2227,2984 2261,2982 2295,2975"/>
+                <TextEquiv>
+                    <Unicode>A kdyż gſa ſe pocżali ſidee mno¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_86" custom="readingOrder {index:42;}">
+                <Coords points="1435,3061 2270,3069 2297,3003 1436,2997"/>
+                <Baseline points="1441,3053 1483,3053 1526,3051 1569,3050 1612,3048 1655,3047 1698,3047 1740,3047 1783,3047 1826,3047 1869,3046 1912,3045 1955,3047 1998,3047 2040,3047 2083,3047 2126,3047 2169,3044 2212,3047 2255,3044 2298,3038"/>
+                <TextEquiv>
+                    <Unicode> żiti na zemi · a dczer naplodili ·</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_88" custom="readingOrder {index:43;}">
+                <Coords points="1564,3128 1888,3137 1959,3115 2111,3137 2161,3116 2290,3142 2290,3070 2251,3062 2047,3056 2010,3081 1955,3059 1624,3080 1564,3061"/>
+                <Baseline points="1570,3107 1606,3109 1642,3110 1678,3111 1714,3113 1750,3113 1786,3110 1822,3110 1858,3110 1894,3110 1931,3110 1967,3110 2003,3110 2039,3110 2075,3109 2111,3107 2147,3110 2183,3110 2219,3110 2255,3110 2292,3107"/>
+                <TextEquiv>
+                    <Unicode>vzrzewſſe ſynowe bożie · dcery</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_90" custom="readingOrder {index:44;}">
+                <Coords points="1420,3183 2304,3182 2304,3127 2247,3120 1420,3125"/>
+                <Baseline points="1426,3175 1470,3174 1514,3172 1558,3172 1602,3173 1646,3174 1690,3172 1734,3172 1778,3171 1822,3170 1866,3172 1910,3172 1954,3172 1998,3172 2042,3169 2086,3169 2130,3169 2174,3169 2218,3172 2262,3169 2307,3172"/>
+                <TextEquiv>
+                    <Unicode>ſidſke że by byly kraſnee · brali ſobie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_92" custom="readingOrder {index:45;}">
+                <Coords points="1432,3253 1503,3275 1623,3250 1685,3287 1856,3257 2041,3278 2116,3243 2302,3276 2302,3196 2176,3179 1432,3192"/>
+                <Baseline points="1438,3238 1481,3238 1524,3238 1567,3241 1611,3238 1654,3238 1697,3238 1741,3238 1784,3238 1827,3238 1871,3238 1914,3238 1957,3238 2000,3236 2044,3235 2087,3235 2130,3235 2174,3235 2217,3235 2260,3236 2304,3238"/>
+                <TextEquiv>
+                    <Unicode>Manželky ze wſſech ktereż zwolili : y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
