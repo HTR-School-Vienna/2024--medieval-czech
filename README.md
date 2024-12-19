@@ -31,12 +31,12 @@ Selection of semi-diplomatic transcribed texts from the so-called Prague Bible (
 
 Martin Plechatý: 7v–9v, Genesis, Gn 2:15–8:17
 Daniel Katscher: 103r–105r, Joshua, Jos 7:13–11:3
-Marie Hedvíková: 246r–247v, Judith, Jdt 2:28–7:28
+Marie Hedvíková: 246r–247v, Judith, Jdt 4:14–7:28
 Jan Škvrňák: 279r–281r, Psalms, Ps 31:10–39:6
-Martina Spěváčková: 415v–417v, Ezechiel, Ez 20:44–25:2
-Jan Švarc: 517v–519v, Gospel of Luke, L 11:52–16:2
-Tereza Hejdová: 569v–571v, Hebrews, Hb 7:19–13:4 
-Václav Steiner: 598r–599r, Apocalypsis, Ap 5:1–14:16;
+Martina Spěváčková: 416r–417v, Ezechiel, Ez 22:22–25:2
+Jan Švarc: 517v–519v, Gospel of Luke, L 11:51–16:4
+Tereza Hejdová: 570r–571v, Hebrews, Hb 9:8–13:4 
+Václav Steiner: 598v–599r, Apocalypsis, Ap 10:1–16:16;
 
 and corrected by Anna Michalcová.
 
