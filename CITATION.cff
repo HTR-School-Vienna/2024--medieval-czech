@@ -1,0 +1,68 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  HTR Winter School 2024 - Medieval Czech - Prague Bible
+  (1488)
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - family-names: Plechatý
+    given-names: Martin
+    email: martin-plechaty@seznam.cz
+    affiliation: University of West Bohemia
+    orcid: 'https://orcid.org/0009-0000-3305-2075'
+  - given-names: 'Václav '
+    family-names: Steiner
+    email: vstein07@students.zcu.cz
+    affiliation: University of West Bohemia
+    orcid: 'https://orcid.org/0009-0004-8336-9846'
+  - given-names: Jan
+    family-names: Švarc
+    email: jansvarc2000@gmail.com
+    affiliation: University of West Bohemia
+    orcid: 'https://orcid.org/0009-0005-1274-0545'
+  - given-names: Hedvíková
+    family-names: Marie
+    email: marie.hedvikova@gmail.com
+    affiliation: Charles University
+    orcid: 'https://orcid.org/0009-0008-3693-6288'
+  - given-names: Anna
+    family-names: Michalcová
+    orcid: 'https://orcid.org/0000-0003-4760-6950'
+    email: a.michalcova@ujc.cas.cz
+    affiliation: Czech Language Institute
+  - family-names: Hejdová
+    given-names: Tereza
+    email: hejdovat@gmail.com
+    affiliation: Czech Language Institute
+    orcid: 'https://orcid.org/0000-0003-3998-8880'
+  - given-names: Martina
+    family-names: Spěváčková
+    email: spevacko@gapps.zcu.cz
+    affiliation: University of West Bohemia
+    orcid: 'https://orcid.org/0000-0002-9357-4614'
+  - given-names: Daniel
+    family-names: Katscher
+    email: daniel.katscher.wien@gmail.com
+    affiliation: University of Vienna
+    orcid: 'https://orcid.org/0009-0008-3475-2522'
+  - given-names: Jan
+    family-names: Škvrňák
+    email: jan.skvrnak@gmail.com
+    affiliation: Charles University
+    orcid: 'https://orcid.org/0000-0003-0985-4144'
+abstract: >
+  The Prague Bible (1488, Vienna, Österreichische
+  Nationalbibliothek, shelfmark Ink 13.C.5, available from:
+  http://data.onb.ac.at/rec/AC07537625, Old Czech)
+
+  Print: Old Czech, Bastarda, end of the 15th C.
+keywords:
+  - Medieval Czech
+  - Prague Bible (1488)
+license: CC-BY-SA-4.0
+date-released: '2024-12-19'
